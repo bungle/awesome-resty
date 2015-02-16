@@ -61,6 +61,7 @@ Library|Description
 
 Library|Description
 :------|:----------
+[lua-resty-string](https://github.com/openresty/lua-resty-string)|String utilities and common hash functions for ngx_lua and LuaJIT
 [lua-resty-nettle](https://github.com/bungle/lua-resty-nettle)|LuaJIT FFI bindings for Nettle (a low-level cryptographic library)
 
 #### Networking

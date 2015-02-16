@@ -4,6 +4,13 @@
 
 **THIS LIST IS CURRENTLY WIP. CONTRIBUTIONS ARE WELCOMED!**
 
+## Official Channels
+
+* Web Site: http://openresty.org/
+* Mailing List: https://groups.google.com/forum/#!forum/openresty-en
+* Github Organization: https://github.com/openresty
+* Lead Developer: @agentzh
+
 ## Libraries
 
 #### Core Libraries

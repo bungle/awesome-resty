@@ -27,6 +27,13 @@ Library|Description
 [lua-rds-parser](https://github.com/openresty/lua-rds-parser)|Resty-DBD-Stream (RDS) parser for Lua written in C
 [lua-cjson](https://github.com/openresty/lua-cjson)|Lua cJSON is a fast JSON encoding / parsing module for Lua
 
+#### Frameworks
+
+Framework|Description
+:--------|:----------
+[Lapis](http://leafo.net/lapis/)|Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty
+
+
 #### Templating
 
 Library|Description

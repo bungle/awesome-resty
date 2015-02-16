@@ -27,9 +27,47 @@ Library|Description
 [lua-rds-parser](https://github.com/openresty/lua-rds-parser)|Resty-DBD-Stream (RDS) parser for Lua written in C
 [lua-cjson](https://github.com/openresty/lua-cjson)|Lua cJSON is a fast JSON encoding / parsing module for Lua
 
+#### Templating
+
+Library|Description
+:------|:----------
+[lua-resty-template](https://github.com/bungle/lua-resty-template)|A Compiling (HTML) templating engine for Lua and OpenResty
+
 #### Cryptography
+
+Library|Description
+:------|:----------
+[lua-resty-nettle](https://github.com/bungle/lua-resty-nettle)|LuaJIT FFI bindings for Nettle (a low-level cryptographic library)
+
 #### Networking
+
+Library|Description
+:------|:----------
+[lua-resty-http](https://github.com/pintsized/lua-resty-http)|Lua HTTP client cosocket driver for OpenResty / ngx_lua
+[lua-resty-http](https://github.com/liseen/lua-resty-http)|Lua http client driver for the ngx_lua based on the cosocket API
+[lua-resty-http-simple](https://github.com/bakins/lua-resty-http-simple)|Simple Lua HTTP client driver for ngx_lua
+[lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient)|Nonblocking Lua HTTP Client library for aLiLua & ngx_lua
+
 #### Databases and Storages
+
+Library|Description
+:------|:----------
+[lua-resty-mysql](https://github.com/openresty/lua-resty-mysql)|Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
+[lua-resty-memcached](https://github.com/openresty/lua-resty-memcached)|Lua memcached client driver for the ngx_lua based on the cosocket API
+[lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua Redis client driver for the ngx_lua based on the cosocket API
+[lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra)|Pure Lua Cassandra client using CQL binary protocol
+[lua-resty-riak](https://github.com/bakins/lua-resty-riak)|Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API
+[lua-resty-mongo](https://github.com/nightsailer/lua-resty-mongo)|Lua mongodb client driver for the ngx_lua based on the cosocket API
+[lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb)|Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server
+[lua-resty-fastdfs](https://github.com/azurewang/lua-resty-fastdfs)|Nonblocking Lua FastDFS driver library for ngx_lua
+
+#### Message Queuing, and Task Management
+
+Library|Description
+:------|:----------
+[lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp)|Lua RabbitMQ client library which uses cosocket api for communication over STOMP 1.2 with a RabbitMQ broker which has the STOMP plugin
+[lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman)|Lua gearman client driver for the ngx_lua based on the cosocket API
+[lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka)|Lua kafka client driver for the ngx_lua based on the cosocket API
 
 ## Books and Tutorials
 

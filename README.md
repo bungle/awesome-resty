@@ -32,6 +32,7 @@ Library|Description
 Library|Description
 :------|:----------
 [lua-resty-template](https://github.com/bungle/lua-resty-template)|A Compiling (HTML) templating engine for Lua and OpenResty
+[etlua](https://github.com/leafo/etlua)|Embedded Lua templates
 
 #### Cryptography
 
@@ -47,12 +48,14 @@ Library|Description
 [lua-resty-http](https://github.com/liseen/lua-resty-http)|Lua http client driver for the ngx_lua based on the cosocket API
 [lua-resty-http-simple](https://github.com/bakins/lua-resty-http-simple)|Simple Lua HTTP client driver for ngx_lua
 [lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient)|Nonblocking Lua HTTP Client library for aLiLua & ngx_lua
+[lua-httpcli-resty](https://github.com/mah0x211/lua-httpcli-resty)|Lua HTTP client module for OpenResty
 
 #### Databases and Storages
 
 Library|Description
 :------|:----------
 [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql)|Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
+[pgmoon](https://github.com/leafo/pgmoon)|A pure Lua Postgres driver for use in OpenResy & more
 [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached)|Lua memcached client driver for the ngx_lua based on the cosocket API
 [lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua Redis client driver for the ngx_lua based on the cosocket API
 [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra)|Pure Lua Cassandra client using CQL binary protocol
@@ -68,6 +71,14 @@ Library|Description
 [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp)|Lua RabbitMQ client library which uses cosocket api for communication over STOMP 1.2 with a RabbitMQ broker which has the STOMP plugin
 [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman)|Lua gearman client driver for the ngx_lua based on the cosocket API
 [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka)|Lua kafka client driver for the ngx_lua based on the cosocket API
+
+#### Web APIs
+
+Library|Description
+:------|:----------
+[lua-resty-github](https://github.com/jamesmarlowe/lua-resty-github)|Lua library for using the github api in the ngx_lua nginx module
+[lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat)|Lua library for using the hipchat api
+[lua-resty-aws](https://github.com/grosskur/lua-resty-aws)|AWS signature V4 library for OpenResty + Lua
 
 ## Books and Tutorials
 

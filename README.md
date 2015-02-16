@@ -4,7 +4,7 @@
 
 ## Libraries
 
-### Core Libraries
+#### Core Libraries
 
 Core Libraries are bundled in OpenResty package, and you don't need to separately install them.
 
@@ -19,14 +19,13 @@ Library|Description
 [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql)|Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
 [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck)|Health Checker for Nginx Upstream Servers in Pure Lua
 
-### Templating
-### Cryptography
-### Networking
-### Databases and Storages
+#### Cryptography
+#### Networking
+#### Databases and Storages
 
 ## Books and Tutorials
 
-### Tutorials and Guides
+#### Tutorials and Guides
 
 * [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html)
 

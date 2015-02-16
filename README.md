@@ -11,6 +11,15 @@
 * Github Organization: https://github.com/openresty
 * Lead Developer: [@agentzh](https://github.com/agentzh)
 
+## Modules
+
+#### Core Modules
+
+Module|Description
+:-----|:----------
+[ngx_openresty](https://github.com/openresty/ngx_openresty)|Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+[lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the power of Lua into Nginx - **The single most important part of OpenResty**
+
 ## Libraries
 
 #### Core Libraries

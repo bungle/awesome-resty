@@ -1,6 +1,6 @@
 # awesome-resty
 
-**awesome-resty** is a curated list of OpenResty / Nginx related Lua libraries, and resources.
+**awesome-resty** is a curated list of OpenResty of Nginx modules, Lua libraries, and related resources.
 
 ## Libraries
 
@@ -16,7 +16,8 @@ Library|Description
 [lua-resty-dns](https://github.com/openresty/lua-resty-dns)|DNS resolver for the Nginx Lua module
 [lua-resty-upload](https://github.com/openresty/lua-resty-upload)|Streaming reader and parser for HTTP file uploading based on ngx_lua cosocket
 [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket)|Lua WebSocket implementation for the ngx_lua module
-
+[lua-resty-mysql](https://github.com/openresty/lua-resty-mysql)|Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
+[lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck)|Health Checker for Nginx Upstream Servers in Pure Lua
 
 ### Cryptography
 

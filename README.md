@@ -71,6 +71,7 @@ Library|Description
 [lua-resty-http](https://github.com/pintsized/lua-resty-http)|Lua HTTP client cosocket driver for OpenResty / ngx_lua
 [lua-resty-http](https://github.com/liseen/lua-resty-http)|Lua http client driver for the ngx_lua based on the cosocket API
 [lua-resty-http-simple](https://github.com/bakins/lua-resty-http-simple)|Simple Lua HTTP client driver for ngx_lua
+[lua-resty-httpipe](https://github.com/timebug/lua-resty-httpipe)|Lua HTTP client cosocket driver for OpenResty / ngx_lua
 [lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient)|Nonblocking Lua HTTP Client library for aLiLua & ngx_lua
 [lua-httpcli-resty](https://github.com/mah0x211/lua-httpcli-resty)|Lua HTTP client module for OpenResty
 
@@ -92,6 +93,7 @@ Library|Description
 
 Library|Description
 :------|:----------
+[lua-resty-qless](https://github.com/pintsized/lua-resty-qless)|Lua binding to Qless (Queue / Pipeline management) for OpenResty
 [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp)|Lua RabbitMQ client library which uses cosocket api for communication over STOMP 1.2 with a RabbitMQ broker which has the STOMP plugin
 [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman)|Lua gearman client driver for the ngx_lua based on the cosocket API
 [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka)|Lua kafka client driver for the ngx_lua based on the cosocket API

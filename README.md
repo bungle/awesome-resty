@@ -9,7 +9,7 @@
 * Web Site: http://openresty.org/
 * Mailing List: https://groups.google.com/forum/#!forum/openresty-en
 * Github Organization: https://github.com/openresty
-* Lead Developer: https://github.com/agentzh
+* Lead Developer: [@agentzh](https://github.com/agentzh)
 
 ## Libraries
 

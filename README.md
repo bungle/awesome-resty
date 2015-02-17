@@ -82,6 +82,11 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman) — Lua gearman client driver for the ngx_lua based on the cosocket API
 * [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) — Lua kafka client driver for the ngx_lua based on the cosocket API
 
+#### Document Formats
+
+* [lua-resty-libxl](https://github.com/bungle/lua-resty-libxl) — LuaJIT FFI-based LibXL (Excel) library for OpenResty
+* [lua-resty-hpdf](https://github.com/tavikukko/lua-resty-hpdf) — LuaJIT FFI-based libHaru (PDF) library for OpenResty
+
 #### Web APIs
 
 * [lua-resty-github](https://github.com/jamesmarlowe/lua-resty-github) — Lua library for using the github api in the ngx_lua nginx module

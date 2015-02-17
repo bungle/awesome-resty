@@ -111,6 +111,11 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat) — Lua library for using the hipchat api
 * [lua-resty-aws](https://github.com/grosskur/lua-resty-aws) — AWS signature V4 library for OpenResty + Lua
 
+#### Other Sources for Libraries
+
+* [LuaRocks / Moonrocks Repository](https://rocks.moonscript.org/)
+* [Github Search for lua-resty-* Libraries](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
+
 ## Books and Tutorials
 
 #### Tutorials and Guides

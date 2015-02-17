@@ -156,6 +156,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-github](https://github.com/jamesmarlowe/lua-resty-github) — Lua library for using the github api in the ngx_lua nginx module
 * [lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat) — Lua library for using the hipchat api
 * [lua-resty-aws](https://github.com/grosskur/lua-resty-aws) — AWS signature V4 library for OpenResty + Lua
+* [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 
 #### Other Sources for Libraries
 

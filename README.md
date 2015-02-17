@@ -69,7 +69,6 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-upload](https://github.com/openresty/lua-resty-upload) — Streaming reader and parser for HTTP file uploading based on ngx_lua cosocket
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) — Lua WebSocket implementation for the ngx_lua module
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) — Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
-* [https://github.com/azurewang/lua-resty-postgres]
 * [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) — Lua memcached client driver for the ngx_lua based on the cosocket API
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) — Lua Redis client driver for the ngx_lua based on the cosocket API
 * [lua-redis-parser](https://github.com/openresty/lua-redis-parser) — Redis reply parser and request constructor library for Lua

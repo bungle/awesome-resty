@@ -11,6 +11,24 @@
 * Github Organization: https://github.com/openresty
 * Lead Developer: [@agentzh](https://github.com/agentzh)
 
+## Contents
+
+* [Modules](#modules)
+  * [Core Modules](#core-modules)
+* [Libraries](#libraries)
+  * [Core Libraries](#core-libraries)
+  * [Frameworks](#frameworks)
+  * [Templating](#templating)
+  * [Cryptography](#cryptography)
+  * [Networking](#networking)
+  * [Databases and Storages](#databases-and-storages)
+  * [Message Queuing and Task Management](#message-queuing-and-task-management)
+  * [Web APIs](#web-apis)
+  * [Other Sources for Libraries](#other-sources-for-libraries)
+* [Books and Tutorials](#books-and-tutorials)
+  * [Tutorials and Guides](#tutorials-and-guides)
+* [See Also](#see-also)
+
 ## Modules
 
 #### Core Modules
@@ -93,7 +111,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) — Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server
 * [lua-resty-fastdfs](https://github.com/azurewang/lua-resty-fastdfs) — Nonblocking Lua FastDFS driver library for ngx_lua
 
-#### Message Queuing, and Task Management
+#### Message Queuing and Task Management
 
 * [lua-resty-qless](https://github.com/pintsized/lua-resty-qless) — Lua binding to Qless (Queue / Pipeline management) for OpenResty
 * [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) — Lua RabbitMQ client library which uses cosocket api for communication over STOMP 1.2 with a RabbitMQ broker which has the STOMP plugin

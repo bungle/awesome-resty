@@ -118,10 +118,19 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman) — Lua gearman client driver for the ngx_lua based on the cosocket API
 * [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) — Lua kafka client driver for the ngx_lua based on the cosocket API
 
+#### Text Formats
+
+* [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
+* [lua-resty-hoedown](https://github.com/bungle/lua-resty-hoedown) — LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C
+
 #### Document Formats
 
 * [lua-resty-libxl](https://github.com/bungle/lua-resty-libxl) — LuaJIT FFI-based LibXL (Excel) library for OpenResty
 * [lua-resty-hpdf](https://github.com/tavikukko/lua-resty-hpdf) — LuaJIT FFI-based libHaru (PDF) library for OpenResty
+
+#### Localization
+
+* [lua-resty-gettext](https://github.com/bungle/lua-resty-gettext) — LuaJIT FFI-based gettext library for OpenResty
 
 #### Web APIs
 

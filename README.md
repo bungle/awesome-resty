@@ -114,4 +114,6 @@ Library|Description
 
 ## See Also
 
+* [awesome-lua](https://github.com/LewisJEllis/awesome-lua) by [@LewisJEllis](https://github.com/LewisJEllis)
+* [awesome-lua](https://github.com/forhappy/awesome-lua) by [@forhappy](https://github.com/forhappy)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources)

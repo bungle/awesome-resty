@@ -17,7 +17,7 @@
   * [Core Modules](#core-modules)
 * [Libraries](#libraries)
   * [Core Libraries](#core-libraries)
-  * [Frameworks](#frameworks)
+  * [Web Frameworks](#web-frameworks)
   * [Web Development Essentials](#web-development-essentials)
   * [Templating](#templating)
   * [Cryptography](#cryptography)
@@ -80,9 +80,14 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-rds-parser](https://github.com/openresty/lua-rds-parser) — Resty-DBD-Stream (RDS) parser for Lua written in C
 * [lua-cjson](https://github.com/openresty/lua-cjson) — Lua cJSON is a fast JSON encoding / parsing module for Lua
 
-#### Frameworks
+#### Web Frameworks
 
 * [Lapis](http://leafo.net/lapis/) — Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty
+* [Sailor](https://github.com/Etiene/sailor) — A Lua MVC Web Framework
+* [MOOCHINE](https://github.com/appwilldev/moochine) — A simple and lightweight web framework based on OpenResty
+* [sinatra-openresty](https://github.com/jtarchie/sinatra-openresty) — Sinatra ported to OpenResty framework
+* [lj-web](https://github.com/kindy/lj-web) — Lightweight Web Framework Based On ngx_openresty
+* [Gimlet Cocktail](https://github.com/losinggeneration/gimlet) — A micro web application framework for OpenResty written in Moonscript inspired by Martini & Sinatra
 
 #### Web Development Essentials
 
@@ -122,6 +127,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-nginx-tarantool](https://github.com/ziontab/lua-nginx-tarantool) — A driver for a NoSQL database in a Lua script Tarantool build on fast nginx cosockets
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) — Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server
 * [lua-resty-fastdfs](https://github.com/azurewang/lua-resty-fastdfs) — Nonblocking Lua FastDFS driver library for ngx_lua
+* [openresty-statsd](https://github.com/lonelyplanet/openresty-statsd) — A Lua module for OpenResty to send metrics to StatsD
 
 #### Message Queuing and Task Management
 
@@ -147,6 +153,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Caching
 
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) — Lua-land LRU Cache based on LuaJIT FFI
+* [Ledge](https://github.com/pintsized/ledge) — A Lua application for OpenResty, providing HTTP cache functionality for Nginx, using Redis as a cache / metadata store
 
 #### Logging
 

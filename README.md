@@ -13,6 +13,8 @@
 
 * [Modules](#modules)
   * [Core Modules](#core-modules)
+  * [Core Nginx Modules](#core-nginx-modules)
+  * [Third-party Nginx Modules](#third-party-nginx-modules)
 * [Libraries](#libraries)
   * [Core Libraries](#core-libraries)
   * [Web Frameworks](#web-frameworks)
@@ -58,6 +60,14 @@ Core modules come bundled in OpenResty package.
 * [ngx_postgres](https://github.com/FRiCKLE/ngx_postgres) — Upstream module that allows Nginx to communicate directly with PostgreSQL database
 * [form-input-nginx-module](https://github.com/calio/form-input-nginx-module) — This is a nginx module that reads HTTP POST and PUT request body encoded in "application/x-www-form-urlencoded", and parse the arguments in request body into nginx variables.
 * [ngx_coolkit](https://github.com/FRiCKLE/ngx_coolkit) — Collection of small and useful nginx add-ons
+
+#### Core Nginx Modules
+
+* Please refer [Nginx Documentation](http://nginx.org/en/docs/) about the Core Nginx Modules.
+
+#### Third-party Nginx Modules
+
+* [ngx_pagespeed](http://ngxpagespeed.com/) ([Github](https://github.com/pagespeed/ngx_pagespeed)) — Automatic PageSpeed optimization module for Nginx
 
 ## Libraries
 

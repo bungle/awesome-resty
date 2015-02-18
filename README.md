@@ -127,9 +127,9 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Networking
 
-* [lua-resty-http by @pintsized](https://github.com/pintsized/lua-resty-http) — Lua HTTP client cosocket driver for OpenResty / ngx_lua
-* [lua-resty-http by @liseen](https://github.com/liseen/lua-resty-http) — Lua http client driver for the ngx_lua based on the cosocket API
-* [lua-resty-http by @DorianGray](https://github.com/DorianGray/lua-resty-http) — Lua HTTP client driver for ngx_lua based on the cosocket API
+* [lua-resty-http](https://github.com/pintsized/lua-resty-http) by [@pintsized](https://github.com/pintsized) — Lua HTTP client cosocket driver for OpenResty / ngx_lua
+* [lua-resty-http](https://github.com/liseen/lua-resty-http) by [@liseen](https://github.com/liseen) — Lua http client driver for the ngx_lua based on the cosocket API
+* [lua-resty-http](https://github.com/DorianGray/lua-resty-http) by [@DorianGray](https://github.com/DorianGray) — Lua HTTP client driver for ngx_lua based on the cosocket API
 * [lua-resty-http-simple](https://github.com/bakins/lua-resty-http-simple) — Simple Lua HTTP client driver for ngx_lua
 * [lua-resty-httpipe](https://github.com/timebug/lua-resty-httpipe) — Lua HTTP client cosocket driver for OpenResty / ngx_lua
 * [lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient) — Nonblocking Lua HTTP Client library for aLiLua & ngx_lua

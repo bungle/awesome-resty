@@ -96,6 +96,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [Lapis](http://leafo.net/lapis/) — Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty
 * [Sailor](https://github.com/Etiene/sailor) — A Lua MVC Web Framework
+* [lua-resty-rack](https://github.com/pintsized/lua-resty-rack) — A simple and extensible HTTP server framework for OpenResty
 * [MOOCHINE](https://github.com/appwilldev/moochine) — A simple and lightweight web framework based on OpenResty
 * [sinatra-openresty](https://github.com/jtarchie/sinatra-openresty) — Sinatra ported to OpenResty framework
 * [lj-web](https://github.com/kindy/lj-web) — Lightweight Web Framework Based On ngx_openresty

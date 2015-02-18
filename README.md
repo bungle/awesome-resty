@@ -1,6 +1,6 @@
 # awesome-resty
 
-**awesome-resty** is a list of OpenResty / Nginx modules, Lua libraries, and related resources.
+**`awesome-resty`** is a list of OpenResty / Nginx modules, Lua libraries, and related resources.
 
 ## Official Channels
 

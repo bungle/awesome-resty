@@ -25,6 +25,7 @@
   * [Databases and Storages](#databases-and-storages)
   * [Message Queuing and Task Management](#message-queuing-and-task-management)
   * [Utilities](#utilities)
+  * [Date and Time](#date-and-time)
   * [Compression](#compression)
   * [Text Formats](#text-formats)
   * [Document Formats](#document-formats)
@@ -171,6 +172,13 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-fileinfo](https://github.com/bungle/lua-resty-fileinfo) — LuaJIT FFI bindings to libmagic, magic number recognition library - tries to determine file types
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) - LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
+
+#### Date and Time
+
+These libraries are not build to using `lua-nginx-module`s date time functions like [`ngx.today`](https://github.com/openresty/lua-nginx-module#ngxtoday), [`ngx.time`](https://github.com/openresty/lua-nginx-module#ngxtime), [`ngx.now`](https://github.com/openresty/lua-nginx-module#ngxnow), [`ngx.localtime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), or [`ngx.utctime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), but they may still come handy. At some point we may need a more "official" time library for OpenResty.
+
+* [luatz](https://github.com/daurnimator/luatz) — A Lua library for time and date manipulation
+* [SciLua Time Library](http://scilua.org/time.html) — Library for the manipulation of dates and periods according to the Gregorian calendar, i.e. the internationally accepted calendar for most uses
 
 #### Compression
 

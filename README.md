@@ -42,7 +42,7 @@
 
 Core modules come bundled in OpenResty package.
 
-* [`ngx_openresty`](https://github.com/openresty/ngx_openresty) — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx_openresty](https://github.com/openresty/ngx_openresty) — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) — Embed the power of Lua into Nginx
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 * [xss-nginx-module](https://github.com/openresty/xss-nginx-module) — Native support for cross-site scripting (XSS) in an nginx

@@ -2,8 +2,6 @@
 
 **awesome-resty** is a list of OpenResty / Nginx modules, Lua libraries, and related resources.
 
-**THIS LIST IS CURRENTLY WIP. CONTRIBUTIONS ARE WELCOMED!**
-
 ## Official Channels
 
 * Web Site: http://openresty.org/

@@ -175,9 +175,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Date and Time
 
-These libraries are not build to using `lua-nginx-module`s date time functions like [`ngx.today`](https://github.com/openresty/lua-nginx-module#ngxtoday), [`ngx.time`](https://github.com/openresty/lua-nginx-module#ngxtime), [`ngx.now`](https://github.com/openresty/lua-nginx-module#ngxnow), [`ngx.localtime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), or [`ngx.utctime`](https://github.com/openresty/lua-nginx-module#ngxutctime), but they may still come handy. At some point we may need a more "official" time library for OpenResty.
+These libraries are not build to using `lua-nginx-module`s date time functions (except luatz) like [`ngx.today`](https://github.com/openresty/lua-nginx-module#ngxtoday), [`ngx.time`](https://github.com/openresty/lua-nginx-module#ngxtime), [`ngx.now`](https://github.com/openresty/lua-nginx-module#ngxnow), [`ngx.localtime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), or [`ngx.utctime`](https://github.com/openresty/lua-nginx-module#ngxutctime), but they may still come handy. At some point we may need a more "official" time library for OpenResty.
 
-* [luatz](https://github.com/daurnimator/luatz) — A Lua library for time and date manipulation (I asked [@daurnimator](https://github.com/daurnimator) and he said that he will look at integrating `ngx.*` in the library).
+* [luatz](https://github.com/daurnimator/luatz) — A Lua library for time and date manipulation (has a fallback to `ngx.now`)
+* [LuaDate](https://github.com/Tieske/date) — Lua Date and Time module for Lua 5.x
 * [SciLua Time Library](http://scilua.org/time.html) — Library for the manipulation of dates and periods according to the Gregorian calendar, i.e. the internationally accepted calendar for most uses
 
 #### Compression
@@ -221,6 +222,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions l
 
 * [LuaRocks / MoonRocks Repository](https://rocks.moonscript.org/) ([Search for *resty* libraries in LuaRocks](https://rocks.moonscript.org/search?q=resty&non_root=on))
 * [Github Search for lua-resty-* Libraries](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
+* [Lua Toolbox](https://lua-toolbox.com/)
+* [luapower — Lua, JIT, batteries](http://luapower.com/)
+* [List of Available LuaJIT Packages](http://wiki.luajit.org/FFI-Native-Libraries)
+* [List of Available LuaJIT FFI Bindings](http://wiki.luajit.org/FFI-Bindings)
 
 ## Books and Tutorials
 

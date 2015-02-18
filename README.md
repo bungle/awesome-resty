@@ -197,7 +197,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Other Sources for Libraries
 
-* [LuaRocks / Moonrocks Repository](https://rocks.moonscript.org/) ([Search for *resty* libraries in LuaRocks](https://rocks.moonscript.org/search?q=resty&non_root=on))
+* [LuaRocks / MoonRocks Repository](https://rocks.moonscript.org/) ([Search for *resty* libraries in LuaRocks](https://rocks.moonscript.org/search?q=resty&non_root=on))
 * [Github Search for lua-resty-* Libraries](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
 
 ## Books and Tutorials

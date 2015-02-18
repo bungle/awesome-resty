@@ -175,7 +175,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Date and Time
 
-These libraries are not build to using `lua-nginx-module`s date time functions like [`ngx.today`](https://github.com/openresty/lua-nginx-module#ngxtoday), [`ngx.time`](https://github.com/openresty/lua-nginx-module#ngxtime), [`ngx.now`](https://github.com/openresty/lua-nginx-module#ngxnow), [`ngx.localtime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), or [`ngx.utctime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), but they may still come handy. At some point we may need a more "official" time library for OpenResty.
+These libraries are not build to using `lua-nginx-module`s date time functions like [`ngx.today`](https://github.com/openresty/lua-nginx-module#ngxtoday), [`ngx.time`](https://github.com/openresty/lua-nginx-module#ngxtime), [`ngx.now`](https://github.com/openresty/lua-nginx-module#ngxnow), [`ngx.localtime`](https://github.com/openresty/lua-nginx-module#ngxlocaltime), or [`ngx.utctime`](https://github.com/openresty/lua-nginx-module#ngxutctime), but they may still come handy. At some point we may need a more "official" time library for OpenResty.
 
 * [luatz](https://github.com/daurnimator/luatz) — A Lua library for time and date manipulation (I asked [@daurnimator](https://github.com/daurnimator) and he said that he will look at integrating `ngx.*` in the library).
 * [SciLua Time Library](http://scilua.org/time.html) — Library for the manipulation of dates and periods according to the Gregorian calendar, i.e. the internationally accepted calendar for most uses

@@ -31,6 +31,8 @@
   * [Document Formats](#document-formats)
   * [Localization](#localization)
   * [Caching](#caching)
+  * [Metrics and Statistics](#metrics-and-statistics)
+  * [Logging](#logging)
   * [Web APIs](#web-apis)
   * [Other Sources for Libraries](#other-sources-for-libraries)
 * [Books and Tutorials](#books-and-tutorials)
@@ -204,6 +206,11 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) — Lua-land LRU Cache based on LuaJIT FFI
 * [Ledge](https://github.com/pintsized/ledge) — A Lua application for OpenResty, providing HTTP cache functionality for Nginx, using Redis as a cache / metadata store
+
+#### Metrics and Statistics
+
+* [LUAMETER](https://luameter.com/) — A Lua module for Nginx that records and provides key status and performance metrics, right from within Nginx and in real-time (Proprietary)
+* [ngxtop](https://github.com/lebinh/ngxtop) — Real-Time metrics for nginx server
 
 #### Logging
 

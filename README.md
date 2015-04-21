@@ -207,6 +207,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-libxl](https://github.com/bungle/lua-resty-libxl) — LuaJIT FFI-based LibXL (Excel) library for OpenResty
 * [lua-resty-hpdf](https://github.com/tavikukko/lua-resty-hpdf) — LuaJIT FFI-based libHaru (PDF) library for OpenResty
 
+#### Image Formats
+
+* [magick](https://github.com/leafo/magick) — Lua bindings to ImageMagick for LuaJIT using FFI
+
 #### Localization
 
 * [lua-resty-gettext](https://github.com/bungle/lua-resty-gettext) — LuaJIT FFI-based gettext library for OpenResty

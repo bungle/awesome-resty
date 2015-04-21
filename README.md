@@ -35,6 +35,7 @@
   * [Compression](#compression)
   * [Text Formats](#text-formats)
   * [Document Formats](#document-formats)
+  * [Image Formats](#image-formats)
   * [Localization](#localization)
   * [Caching](#caching)
   * [Metrics and Statistics](#metrics-and-statistics)

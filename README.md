@@ -123,8 +123,9 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) — Lua library for HTTP cookie manipulations for OpenResty/ngx_lua
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) — Session library for OpenResty implementing Secure Cookie Protocol
-* [lua-resty-woothee](https://github.com/toritori0318/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is multi-language user-agent strings parsers
+* [lua-resty-woothee](https://github.com/toritori0318/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches urls and executes lua functions
+* [lua-resty-mobile](https://github.com/isage/lua-resty-mobile) — This library parses HTTP headers and detects mobile device*
 
 #### Templating
 
@@ -138,6 +139,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-murmurhash2](https://github.com/bungle/lua-resty-murmurhash2) — LuaJIT MurmurHash 2 bindings to Nginx / OpenResty murmurhash2 implementation
 * [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) — Lua driver for making and receiving hmac signed requests
 * [lua-resty-scrypt](https://github.com/bungle/lua-resty-scrypt) — LuaJIT FFI-based scrypt library for OpenResty
+* [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) — RSA functions for LuaJIT
 
 #### Networking
 

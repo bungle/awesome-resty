@@ -25,6 +25,7 @@
   * [Core Libraries](#core-libraries)
   * [Web Frameworks](#web-frameworks)
   * [Web Development Essentials](#web-development-essentials)
+  * [Middleware and API Tools](#middleware-and-api-tools)
   * [Templating](#templating)
   * [Cryptography](#cryptography)
   * [Networking](#networking)
@@ -126,6 +127,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-woothee](https://github.com/toritori0318/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches urls and executes lua functions
 * [lua-resty-mobile](https://github.com/isage/lua-resty-mobile) — This library parses HTTP headers and detects mobile device*
+
+#### Middleware and API Tools
+
+* [Kong](http://getkong.org/) ([GitHub](https://github.com/Mashape/kong)) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
 
 #### Templating
 

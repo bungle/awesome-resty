@@ -5,7 +5,7 @@
 ## Official Channels
 
 * Web Site: http://openresty.org/
-* Mailing List: https://groups.google.com/forum/#!forum/openresty-en
+* Mailing List: https://groups.google.com/forum/#!forum/openresty-en ([Chinese List](https://groups.google.com/forum/#!forum/openresty))
 * Github Organization: https://github.com/openresty
 * Lead Developer: [@agentzh](https://github.com/agentzh)
 

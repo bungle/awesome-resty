@@ -44,6 +44,7 @@
   * [Web APIs](#web-apis)
   * [Other Sources for Libraries](#other-sources-for-libraries)
 * [Books and Tutorials](#books-and-tutorials)
+  * [Books](#books)
   * [Tutorials and Guides](#tutorials-and-guides)
 * [See Also](#see-also)
 
@@ -261,6 +262,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [List of Available LuaJIT FFI Bindings](http://wiki.luajit.org/FFI-Bindings)
 
 ## Books and Tutorials
+
+#### Books
+
+* [OpenResty Best Practices](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)) (Chinese, use e.g. Google Translate)
 
 #### Tutorials and Guides
 

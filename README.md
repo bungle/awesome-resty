@@ -46,6 +46,7 @@
 * [Books and Tutorials](#books-and-tutorials)
   * [Books](#books)
   * [Tutorials and Guides](#tutorials-and-guides)
+* [Conferences, Workshops and Events](#conferences-workshops-and-events) 
 * [See Also](#see-also)
 
 ## Modules
@@ -273,6 +274,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [Definitely an OpenResty Guide](http://www.staticshin.com/programming/definitely-an-open-resty-guide/)
 * The Latest and Greatest from ngx_lua: New Features & Tools ([Summary](https://nginx.busyconf.com/activities/53d854c1c9e255cf2d00007b), [Slides](http://agentzh.org/misc/slides/nginx-conf-2014/#1), [PDF](http://agentzh.org/misc/slides/nginx-conf-2014.pdf), [Video](https://www.youtube.com/watch?v=Z0fQabvVhIk))
 * [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) — A collection of useful Nginx configuration snippets
+
+## Conferences, Workshops and Events
+
+* [OpenResty Con 2015, Beijing, China](http://www.iresty.com/) ([19wu.com](http://19wu.com/openrestycon2015))
 
 ## See Also
 

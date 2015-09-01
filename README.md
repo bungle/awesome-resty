@@ -31,6 +31,7 @@
   * [Networking](#networking)
   * [Databases and Storages](#databases-and-storages)
   * [Message Queuing and Task Management](#message-queuing-and-task-management)
+  * [Bar Codes and QR Codes](#bar-codes-and-qr-codes)
   * [Utilities](#utilities)
   * [Date and Time](#date-and-time)
   * [Compression](#compression)

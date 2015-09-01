@@ -195,8 +195,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Bar Codes and QR Codes
 
-* [https://github.com/dcshi/lua-resty-QRcode](https://github.com/dcshi/lua-resty-QRcode) — QR encode tool for ngx_lua
-* [https://github.com/dcshi/lua-resty-QRDecode](https://github.com/dcshi/lua-resty-QRDecode) — QR decoder for ngx_lua
+* [lua-resty-QRcode](https://github.com/dcshi/lua-resty-QRcode) — QR encode tool for ngx_lua
+* [lua-resty-QRDecode](https://github.com/dcshi/lua-resty-QRDecode) — QR decoder for ngx_lua
 
 #### Utilities
 

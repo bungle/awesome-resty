@@ -192,6 +192,11 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-beanstalkd](https://github.com/bakins/lua-resty-beanstalkd) — Lua beanstalkd client driver for the ngx_lua based on the cosocket API
 * [lua-resty-ironmq](https://github.com/bakins/lua-resty-ironmq) — Simple IronMQ client for OpenResty
 
+#### Bar Codes and QR Codes
+
+* [https://github.com/dcshi/lua-resty-QRcode](https://github.com/dcshi/lua-resty-QRcode) — QR encode tool for ngx_lua
+* [https://github.com/dcshi/lua-resty-QRDecode](https://github.com/dcshi/lua-resty-QRDecode) — QR decoder for ngx_lua
+
 #### Utilities
 
 * [lua-resty-fileinfo](https://github.com/bungle/lua-resty-fileinfo) — LuaJIT FFI bindings to libmagic, magic number recognition library - tries to determine file types
@@ -252,6 +257,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-s3](https://github.com/jamesmarlowe/lua-resty-s3) — Lua driver for uploading content to Amazon S3
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
+* [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
 
 #### Other Sources for Libraries
 

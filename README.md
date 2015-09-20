@@ -286,7 +286,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ## Conferences, Workshops and Events
 
-* [OpenResty Con 2015, Beijing, China](http://www.iresty.com/) ([19wu.com](http://19wu.com/openrestycon2015))
+* [OpenResty Con 2015, Beijing, China](http://www.iresty.com/) ([tickets](http://detail.koudaitong.com/show/goods?alias=1044ajovk&v2/goods/1044ajovk)) ([19wu.com](http://19wu.com/openrestycon2015))
 
 ## See Also
 

@@ -200,7 +200,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Message Queuing and Task Management
 
-* [lua-resty-qless](https://github.com/pintsized/lua-resty-qless) — Lua binding to Qless (Queue / Pipeline management) for OpenResty
+* [lua-resty-qless](https://github.com/pintsized/lua-resty-qless) — Lua binding to Qless (Queue / Pipeline management) for OpenResty (see also: [Qless Web Interface](https://github.com/hamishforbes/lua-resty-qless-web) implemented with OpenResty)
 * [lua-resty-rabbitmqstomp](https://github.com/wingify/lua-resty-rabbitmqstomp) — Lua RabbitMQ client library which uses cosocket api for communication over STOMP 1.2 with a RabbitMQ broker which has the STOMP plugin
 * [lua-resty-gearman](https://github.com/zhhchen/lua-resty-gearman) — Lua gearman client driver for the ngx_lua based on the cosocket API
 * [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) — Lua kafka client driver for the ngx_lua based on the cosocket API

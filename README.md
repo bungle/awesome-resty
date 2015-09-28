@@ -133,6 +133,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches urls and executes lua functions
 * [lua-resty-mobile](https://github.com/isage/lua-resty-mobile) — This library parses HTTP headers and detects mobile device*
 * [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) — JWT (JSON Web Tokens) for The Great OpenResty
+* [lua-resty-post](https://github.com/antonheryanto/lua-resty-post) — HTTP Post Utility for OpenResty (File Uploading Helper)
 
 #### Middleware and API Tools
 

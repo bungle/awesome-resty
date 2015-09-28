@@ -307,4 +307,3 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by [@forhappy](https://github.com/forhappy)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
-* 

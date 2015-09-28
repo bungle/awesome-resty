@@ -196,7 +196,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [stapxx](https://github.com/openresty/stapxx) — Simple macro language extentions to systemtap
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately 
 * [lua-resty-test](https://github.com/membphis/lua-resty-test) — Test frame based on OpenResty
-* [busted](http://olivinelabs.com/busted/)([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
+* [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
 
 #### Message Queuing and Task Management
 

@@ -30,6 +30,7 @@
   * [Cryptography](#cryptography)
   * [Networking](#networking)
   * [Databases and Storages](#databases-and-storages)
+  * [Testing and Profiling](#testing-and-profiling)
   * [Message Queuing and Task Management](#message-queuing-and-task-management)
   * [Bar Codes and QR Codes](#bar-codes-and-qr-codes)
   * [Utilities](#utilities)
@@ -166,6 +167,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
 * [lua-resty-jsonrpc-batch](https://github.com/mosasiru/lua-resty-jsonrpc-batch) — JSON-RPC 2.0 Batch Request protocol module for OpenResty
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) — Lua library for limiting and controlling traffic in OpenResty/ngx_lua
+* [lua-resty-limits](https://github.com/membphis/lua-resty-limits) — Limits request every second or minute
 
 #### Databases and Storages
 
@@ -186,6 +188,15 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [ledis-openresty](https://github.com/holys/ledis-openresty) — Lua LedisDB client driver for the ngx_lua based on the cosocket API
 * [lua-resty-fastdfs](https://github.com/azurewang/lua-resty-fastdfs) — Nonblocking Lua FastDFS driver library for ngx_lua
 * [openresty-statsd](https://github.com/lonelyplanet/openresty-statsd) — A Lua module for OpenResty to send metrics to StatsD
+
+#### Testing and Profiling
+
+* [Test::Nginx](http://search.cpan.org/~agent/Test-Nginx-0.24/lib/Test/Nginx.pm) — Data-driven test scaffold for Nginx C module and OpenResty Lua library development (see real-word tests in [lua-resty-redis](https://github.com/openresty/lua-resty-redis/tree/master/t))
+* [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) — Real-time analyzing and diagnosing tools for Nginx based on SystemTap
+* [stapxx](https://github.com/openresty/stapxx) — Simple macro language extentions to systemtap
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately 
+* [lua-resty-test](https://github.com/membphis/lua-resty-test) — Test frame based on OpenResty
+* [busted](http://olivinelabs.com/busted/)([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
 
 #### Message Queuing and Task Management
 
@@ -295,3 +306,4 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by [@forhappy](https://github.com/forhappy)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
+* 

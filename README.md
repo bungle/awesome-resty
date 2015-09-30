@@ -199,6 +199,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately 
 * [lua-resty-test](https://github.com/membphis/lua-resty-test) — Test frame based on OpenResty
 * [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
+* [Telescope](http://telescope.luaforge.net/) ([Github](https://github.com/norman/telescope)) — Telescope is a highly customizable test library for Lua that allows for declarative tests with nested contexts
 
 #### Message Queuing and Task Management
 

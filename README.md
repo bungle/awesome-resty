@@ -252,6 +252,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [Lua IMagick](https://github.com/isage/lua-imagick) — Lua Pure-C Bindings to ImageMagick
 * [magick](https://github.com/leafo/magick) — Lua Bindings to ImageMagick for LuaJIT using FFI
 * [giflib](https://github.com/leafo/giflib) — Lua bindings to GIFLIB for LuaJIT using FFI
+* [fi-luajit](https://github.com/nyfair/fi-luajit) — A LuaJIT interface to FreeImage
 
 #### Localization
 

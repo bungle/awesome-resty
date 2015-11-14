@@ -117,6 +117,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [Quick Server](https://github.com/dualface/quickserver) — A Server Framework Based on OpenResty
 * [Sailor](https://github.com/Etiene/sailor) — A Lua MVC Web Framework
 * [lua-resty-rack](https://github.com/pintsized/lua-resty-rack) — A simple and extensible HTTP server framework for OpenResty
+* [Vanilla](https://github.com/idevz/vanilla) — An OpenResty Web Framework
 * [MOOCHINE](https://github.com/appwilldev/moochine) — A simple and lightweight web framework based on OpenResty
 * [sinatra-openresty](https://github.com/jtarchie/sinatra-openresty) — Sinatra ported to OpenResty framework
 * [lj-web](https://github.com/kindy/lj-web) — Lightweight Web Framework Based On ngx_openresty

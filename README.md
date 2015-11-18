@@ -175,6 +175,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) — Lua library for limiting and controlling traffic in OpenResty/ngx_lua
 * [lua-resty-limits](https://github.com/membphis/lua-resty-limits) — Limits request every second or minute
 * [lua-resty-fastcgi](https://github.com/benagricola/lua-resty-fastcgi) — Lua FCGI client driver for ngx_lua based on the cosocket API
+* [lua-resty-ftpclient](https://github.com/Ahsialh/lua-resty-ftpclient) —  Lua FTP client driver for the ngx_lua based on the cosocket API
 
 #### Databases and Storages
 

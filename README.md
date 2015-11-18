@@ -122,6 +122,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [sinatra-openresty](https://github.com/jtarchie/sinatra-openresty) — Sinatra ported to OpenResty framework
 * [lj-web](https://github.com/kindy/lj-web) — Lightweight Web Framework Based On ngx_openresty
 * [Gimlet Cocktail](https://github.com/losinggeneration/gimlet) — A micro web application framework for OpenResty written in Moonscript inspired by Martini & Sinatra
+* [durap](https://github.com/doujiang24/durap) — Durap is a Lua Web Framework based on OpenResty.
 * [Ziggy Stardust](https://github.com/bakins/stardust) — Ziggy Stardust (or just "stardust") is a simple nginx/Lua framework inspired by Sinatra, Express, and Mercury
 * [zLua](https://github.com/mrxx/zLua) — A Codeigniter like Lua framework based on OpenResty
 * [lua-resty-stack](https://github.com/antonheryanto/lua-resty-stack) — OpenResty Simple Application Stack

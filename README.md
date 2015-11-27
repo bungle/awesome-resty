@@ -245,6 +245,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-hoedown](https://github.com/bungle/lua-resty-hoedown) — LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C
 * [lua-gumbo](https://github.com/craigbarnes/lua-gumbo) — Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua
+* [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm 
 * [lua-resty-prettycjson](https://github.com/bungle/lua-resty-prettycjson) — Lua cJSON Pretty Formatter
 
 #### Document Formats

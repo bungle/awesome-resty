@@ -278,6 +278,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 #### Logging
 
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) — Raw-socket-based Logger Library for Nginx (based on ngx_lua)
+* [raven-lua](https://github.com/cloudflare/raven-lua) — A small Lua interface to Sentry
 * [lua-nginx-logging](https://github.com/Lumate/lua-nginx-logging) — Logging utilities for Nginx written in Lua
 * [lua-resty-logger](https://github.com/kedyyan/lua-resty-logger) — Custom Logger Library for OpenResty
 

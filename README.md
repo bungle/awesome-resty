@@ -173,6 +173,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) — Utility functions for working with IP addresses in OpenResty
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
 * [FreeWAF](https://github.com/p0pr0ck5/FreeWAF) — High-performance WAF built on the OpenResty stack
+* [lua-resty-tarpit](https://github.com/p0pr0ck5/lua-resty-tarpit) — OpenResty response time inflation, capture and delay unwanted requests 
 * [lua-resty-jsonrpc-batch](https://github.com/mosasiru/lua-resty-jsonrpc-batch) — JSON-RPC 2.0 Batch Request protocol module for OpenResty
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) — Lua library for limiting and controlling traffic in OpenResty/ngx_lua
 * [lua-resty-limits](https://github.com/membphis/lua-resty-limits) — Limits request every second or minute

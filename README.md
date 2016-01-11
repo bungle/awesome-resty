@@ -87,6 +87,7 @@ Please also note that there is **`resty`** command line client included in OpenR
 * [ngx_pagespeed](http://ngxpagespeed.com/) ([Github](https://github.com/pagespeed/ngx_pagespeed)) — Automatic PageSpeed optimization module for Nginx
 * [ModSecurity](https://www.modsecurity.org/) — Open Source Web Application Firewall
 * [NAXSI](https://github.com/nbs-system/naxsi) — NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX; NAXSI means Nginx Anti Xss & Sql Injection
+* [nginx-upsync-module](https://github.com/weibocom/nginx-upsync-module) — Nginx C module, syncing upstreams from consul or others, dynamiclly adjusting backend servers weight, needn't reload nginx
 
 ## Libraries
 

@@ -155,7 +155,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-tmpl](https://github.com/lloydzhou/lua-resty-tmpl) — A simple template engine for Lua and OpenResty, derived from [lua-template](https://github.com/dannote/lua-template).
 * [Alternatives](https://github.com/bungle/lua-resty-template#alternatives) — Some alternative Lua templating solutions that may work just fine with OpenResty 
 
-# Validation
+#### Validation
 
 * [lua-resty-validation](https://github.com/bungle/lua-resty-validation) — An extendable chaining validation and filtering library for Lua and OpenResty
 
@@ -259,6 +259,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-hoedown](https://github.com/bungle/lua-resty-hoedown) — LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C
 * [lua-gumbo](https://github.com/craigbarnes/lua-gumbo) — Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua
+* [lua-resty-sass](https://github.com/bungle/lua-resty-sass) — LuaJIT FFI bindings for libsass - A C/C++ implementation of a Sass compiler (http://libsass.org/).
 * [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library. 
 * [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm 
 * [lua-resty-prettycjson](https://github.com/bungle/lua-resty-prettycjson) — Lua cJSON Pretty Formatter

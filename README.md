@@ -27,6 +27,7 @@
   * [Web Development Essentials](#web-development-essentials)
   * [Middleware and API Tools](#middleware-and-api-tools)
   * [Templating](#templating)
+  * [Validation](#validation)
   * [Cryptography](#cryptography)
   * [Networking](#networking)
   * [Databases and Storages](#databases-and-storages)
@@ -153,6 +154,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [etlua](https://github.com/leafo/etlua) — Embedded Lua templates
 * [lua-resty-tmpl](https://github.com/lloydzhou/lua-resty-tmpl) — A simple template engine for Lua and OpenResty, derived from [lua-template](https://github.com/dannote/lua-template).
 * [Alternatives](https://github.com/bungle/lua-resty-template#alternatives) — Some alternative Lua templating solutions that may work just fine with OpenResty 
+
+# Validation
+
+* [lua-resty-validation](https://github.com/bungle/lua-resty-validation) — An extendable chaining validation and filtering library for Lua and OpenResty
 
 #### Cryptography
 

@@ -213,6 +213,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) — Real-time analyzing and diagnosing tools for Nginx based on SystemTap
 * [stapxx](https://github.com/openresty/stapxx) — Simple macro language extentions to systemtap
 * [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately 
+* [lua-resty-busted](https://github.com/thibaultCha/lua-resty-busted) — Test OpenResty scripts with busted
 * [lua-resty-test](https://github.com/membphis/lua-resty-test) — Test frame based on OpenResty
 * [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
 * [Telescope](http://telescope.luaforge.net/) ([Github](https://github.com/norman/telescope)) — Telescope is a highly customizable test library for Lua that allows for declarative tests with nested contexts

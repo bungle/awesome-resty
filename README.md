@@ -116,7 +116,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [Lusty](https://github.com/Olivine-Labs/lusty) — Lua RESTful Web Application Framework, an extensible and speedy web framework
 * [GIN](https://github.com/ostinelli/gin) — A fast, low-latency, low-memory footprint, web JSON-API framework with Test Driven Development helpers and patterns
 * [Quick Server](https://github.com/dualface/quickserver) — A Server Framework Based on OpenResty
-* [Sailor](https://github.com/Etiene/sailor) — A Lua MVC Web Framework
+* [Sailor](https://github.com/sailorproject/sailor) — A Lua MVC Web Framework
 * [lua-resty-rack](https://github.com/pintsized/lua-resty-rack) — A simple and extensible HTTP server framework for OpenResty
 * [Vanilla](https://github.com/idevz/vanilla) — An OpenResty Web Framework
 * [MOOCHINE](https://github.com/appwilldev/moochine) — A simple and lightweight web framework based on OpenResty
@@ -134,7 +134,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) — Lua library for HTTP cookie manipulations for OpenResty/ngx_lua
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) — Session library for OpenResty implementing Secure Cookie Protocol
-* [lua-resty-woothee](https://github.com/toritori0318/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
+* [lua-resty-woothee](https://github.com/woothee/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
 * [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches urls and executes lua functions
 * [lua-resty-mobile](https://github.com/isage/lua-resty-mobile) — This library parses HTTP headers and detects mobile device*
@@ -144,7 +144,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](http://getkong.org/) ([GitHub](https://github.com/Mashape/kong)) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Mashape/kong)) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
 
 #### Templating
 
@@ -305,7 +305,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [LuaRocks / MoonRocks Repository](https://rocks.moonscript.org/) ([Search for *resty* libraries in LuaRocks](https://rocks.moonscript.org/search?q=resty&non_root=on))
 * [Github Search for lua-resty-* Libraries](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
 * [Lua Toolbox](https://lua-toolbox.com/)
-* [luapower — Lua, JIT, batteries](http://luapower.com/)
+* [luapower — Lua, JIT, batteries](https://luapower.com/)
 * [List of Available LuaJIT Packages](http://wiki.luajit.org/FFI-Native-Libraries)
 * [List of Available LuaJIT FFI Bindings](http://wiki.luajit.org/FFI-Bindings)
 

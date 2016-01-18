@@ -166,6 +166,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-murmurhash2](https://github.com/bungle/lua-resty-murmurhash2) — LuaJIT MurmurHash 2 bindings to Nginx / OpenResty murmurhash2 implementation
 * [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) — Lua driver for making and receiving hmac signed requests
 * [lua-resty-scrypt](https://github.com/bungle/lua-resty-scrypt) — LuaJIT FFI-based scrypt library for OpenResty
+* [lua-resty-xxhash](https://github.com/bungle/lua-resty-xxhash) — LuaJIT FFI-bindings to xxHash, an Extremely fast non-cryptographic hash algorithm
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) — RSA functions for LuaJIT
 * [lua-resty-hawk](https://github.com/golgote/lua-resty-hawk) — Hawk authentication on Nginx with Lua and OpenResty
 

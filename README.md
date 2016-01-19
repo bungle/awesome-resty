@@ -323,7 +323,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Other Sources for Libraries
 
-* [LuaRocks / MoonRocks Repository](https://rocks.moonscript.org/) ([Search for *resty* libraries in LuaRocks](https://rocks.moonscript.org/search?q=resty&non_root=on))
+* [LuaRocks Repository](https://luarocks.org/) ([Search for *resty* libraries in LuaRocks](https://luarocks.org/search?q=resty&non_root=on))
 * [Github Search for lua-resty-* Libraries](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93)
 * [Lua Toolbox](https://lua-toolbox.com/)
 * [luapower — Lua, JIT, batteries](https://luapower.com/)

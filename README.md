@@ -28,6 +28,7 @@
   * [Middleware and API Tools](#middleware-and-api-tools)
   * [Templating](#templating)
   * [Validation](#validation)
+  * [Authentication and Authorization](#authentication-and-authorization)
   * [Cryptography](#cryptography)
   * [Networking](#networking)
   * [Databases and Storages](#databases-and-storages)
@@ -159,6 +160,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Validation
 
 * [lua-resty-validation](https://github.com/bungle/lua-resty-validation) — An extendable chaining validation and filtering library for Lua and OpenResty
+
+#### Authentication and Authorization
+
+* [lua-resty-openidc](https://github.com/pingidentity/lua-resty-openidc) — lua-resty-openidc is a library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality
 
 #### Cryptography
 

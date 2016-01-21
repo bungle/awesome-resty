@@ -340,6 +340,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [agentzh's Nginx Tutorials](http://openresty.org/download/agentzh-nginx-tutorials-en.html)
 * [Definitely an OpenResty Guide](http://www.staticshin.com/programming/definitely-an-open-resty-guide/)
+* [Top ten things about OpenResty](http://www.staticshin.com/top-tens/things-about-openresty.html)
 * The Latest and Greatest from ngx_lua: New Features & Tools ([Summary](https://nginx.busyconf.com/activities/53d854c1c9e255cf2d00007b), [Slides](http://agentzh.org/misc/slides/nginx-conf-2014/#1), [PDF](http://agentzh.org/misc/slides/nginx-conf-2014.pdf), [Video](https://www.youtube.com/watch?v=Z0fQabvVhIk))
 * [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) — A collection of useful Nginx configuration snippets
 

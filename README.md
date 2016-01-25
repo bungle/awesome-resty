@@ -348,8 +348,8 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 ## Videos
 
 * [Getting started with Lapis, the web framework](https://www.youtube.com/watch?v=Eo67iTY1Yf8)
-* [Enabling TLS Cross host Session Resumption with Forward Secrecy via ngx lua](https://www.youtube.com/watch?v=JDNJTkDCH0c)
-* [The Latest and Greatest from ngx_lua: New Features & Tools (Nginx Conf 2014)](https://www.youtube.com/watch?v=Z0fQabvVhIk)
+* [Enabling TLS Cross host Session Resumption with Forward Secrecy via ngx lua](https://www.youtube.com/watch?v=JDNJTkDCH0c) (Nginx Conf 2015)
+* [The Latest and Greatest from ngx_lua: New Features & Tools](https://www.youtube.com/watch?v=Z0fQabvVhIk) (Nginx Conf 2014)
 
 ## Conferences, Workshops and Events
 

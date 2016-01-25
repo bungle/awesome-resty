@@ -349,6 +349,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 ## Videos
 
 * [Getting started with Lapis, the web framework](https://www.youtube.com/watch?v=Eo67iTY1Yf8)
+* [Building an HTTP request router with NGINX and Lua - Shopify](https://www.youtube.com/watch?v=Cw6Ci9AF23k) (Nginx Conf 2015)
 * [Enabling TLS Cross host Session Resumption with Forward Secrecy via ngx lua](https://www.youtube.com/watch?v=JDNJTkDCH0c) (Nginx Conf 2015)
 * [The Latest and Greatest from ngx_lua: New Features & Tools](https://www.youtube.com/watch?v=Z0fQabvVhIk) (Nginx Conf 2014)
 

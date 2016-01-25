@@ -336,6 +336,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Books
 
+* [Programming OpenResty](https://www.gitbook.com/book/openresty/programming-openresty/details) — Scripting an NGINX-based Web Platform (Work-in-Progress)
 * [OpenResty Best Practices](https://github.com/moonbingbing/openresty-best-practices) ([GitBook](https://www.gitbook.com/book/moonbingbing/openresty-best-practices/details)) (Chinese, use e.g. Google Translate)
 
 #### Tutorials and Guides

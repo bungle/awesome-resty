@@ -50,6 +50,7 @@
 * [Books and Tutorials](#books-and-tutorials)
   * [Books](#books)
   * [Tutorials and Guides](#tutorials-and-guides)
+* [Videos](#videos)
 * [Conferences, Workshops and Events](#conferences-workshops-and-events) 
 * [See Also](#see-also)
 
@@ -344,10 +345,14 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * The Latest and Greatest from ngx_lua: New Features & Tools ([Summary](https://nginx.busyconf.com/activities/53d854c1c9e255cf2d00007b), [Slides](http://agentzh.org/misc/slides/nginx-conf-2014/#1), [PDF](http://agentzh.org/misc/slides/nginx-conf-2014.pdf), [Video](https://www.youtube.com/watch?v=Z0fQabvVhIk))
 * [Nginx Configuration Snippets](https://github.com/lebinh/nginx-conf) — A collection of useful Nginx configuration snippets
 
+## Videos
+
+* [Getting started with Lapis, the web framework](https://www.youtube.com/watch?v=Eo67iTY1Yf8)
+
 ## Conferences, Workshops and Events
 
 * [OpenResty Con 2015, Beijing, China](http://www.iresty.com/)
-  * The Past, Present, and Future of OpenResty 2015 ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangyichun.pdf), [Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) (In Chinese)
+  * The Past, Present, and Future of OpenResty 2015 ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangyichun.pdf), [Slides](http://www.iresty.com/download/ebook/2015_con/zhangshuai.pdf), [Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) (In Chinese)
   * Developing OpenResty Framework ([Slides](http://www.slideshare.net/AapoTalvensaari1/developing-openresty-framework-57404012), [Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
   * Be a Microservice Hero ([Video](https://www.youtube.com/watch?v=gqRMX8BQD98)) (In Chinese)
 

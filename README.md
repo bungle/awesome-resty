@@ -349,7 +349,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [OpenResty Con 2015, Beijing, China](http://www.iresty.com/)
   * The Past, Present, and Future of OpenResty 2015 ([Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) 
   * Developing OpenResty Framework ([Slides](http://www.slideshare.net/AapoTalvensaari1/developing-openresty-framework-57404012), [Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
-  * Be MicroService Hero ([Video](https://www.youtube.com/watch?v=gqRMX8BQD98))
+  * Be a Microservice Hero ([Video](https://www.youtube.com/watch?v=gqRMX8BQD98))
   
 
 ## See Also

@@ -48,7 +48,7 @@
 * [Books and Tutorials](#books-and-tutorials)
   * [Books](#books)
   * [Tutorials and Guides](#tutorials-and-guides)
-* [Conferences, Workshops and Events](#conferences-workshops-and-events) 
+* [Conferences, Workshops and Events](#conferences-workshops-and-events)
 * [See Also](#see-also)
 
 ## Modules
@@ -148,7 +148,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-template](https://github.com/bungle/lua-resty-template) — A Compiling (HTML) templating engine for Lua and OpenResty
 * [etlua](https://github.com/leafo/etlua) — Embedded Lua templates
-* [Alternatives](https://github.com/bungle/lua-resty-template#alternatives) — Some alternative Lua templating solutions that may work just fine with OpenResty 
+* [Alternatives](https://github.com/bungle/lua-resty-template#alternatives) — Some alternative Lua templating solutions that may work just fine with OpenResty
 
 #### Cryptography
 
@@ -204,7 +204,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [Test::Nginx](http://search.cpan.org/~agent/Test-Nginx-0.24/lib/Test/Nginx.pm) — Data-driven test scaffold for Nginx C module and OpenResty Lua library development (see real-word tests in [lua-resty-redis](https://github.com/openresty/lua-resty-redis/tree/master/t))
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) — Real-time analyzing and diagnosing tools for Nginx based on SystemTap
 * [stapxx](https://github.com/openresty/stapxx) — Simple macro language extentions to systemtap
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately 
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately
 * [lua-resty-test](https://github.com/membphis/lua-resty-test) — Test frame based on OpenResty
 * [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
 * [Telescope](http://telescope.luaforge.net/) ([Github](https://github.com/norman/telescope)) — Telescope is a highly customizable test library for Lua that allows for declarative tests with nested contexts
@@ -245,8 +245,8 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-hoedown](https://github.com/bungle/lua-resty-hoedown) — LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C
 * [lua-gumbo](https://github.com/craigbarnes/lua-gumbo) — Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua
-* [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library. 
-* [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm 
+* [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library.
+* [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm
 * [lua-resty-prettycjson](https://github.com/bungle/lua-resty-prettycjson) — Lua cJSON Pretty Formatter
 
 #### Document Formats
@@ -289,6 +289,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat) — Lua library for using the hipchat api
 * [lua-resty-aws](https://github.com/grosskur/lua-resty-aws) — AWS signature V4 library for OpenResty + Lua
 * [lua-resty-s3](https://github.com/jamesmarlowe/lua-resty-s3) — Lua driver for uploading content to Amazon S3
+* [lua-resty-s3uploader](https://github.com/lilien1010/lua-resty-s3uploader) — An AWS S3 upload client，easy to use.
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform

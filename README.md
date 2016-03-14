@@ -320,6 +320,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat) — Lua library for using the hipchat api
 * [lua-resty-aws](https://github.com/grosskur/lua-resty-aws) — AWS signature V4 library for OpenResty + Lua
 * [lua-resty-s3](https://github.com/jamesmarlowe/lua-resty-s3) — Lua driver for uploading content to Amazon S3
+* [lua-resty-s3uploader](https://github.com/lilien1010/lua-resty-s3uploader) — An AWS S3 upload client，easy to use.
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform

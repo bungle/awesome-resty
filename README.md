@@ -132,6 +132,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-stack](https://github.com/antonheryanto/lua-resty-stack) — OpenResty Simple Application Stack
 * [dodolu](https://github.com/zhangf911/dodolu) — A lightweight web framework based on OpenResty
 * [Octopus](https://github.com/cyberz-eu/octopus) ([Github](https://github.com/cyberz-eu/octopus)) — The Lua Web Platform
+* [vicky](https://github.com/RocksonZeta/vicky) - A restful framework for openresty,inspired by expressjs and koa.
 
 #### Web Development Essentials
 

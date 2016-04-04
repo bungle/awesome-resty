@@ -181,6 +181,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-xxhash](https://github.com/bungle/lua-resty-xxhash) — LuaJIT FFI-bindings to xxHash, an Extremely fast non-cryptographic hash algorithm
 * [lua-resty-rsa](https://github.com/doujiang24/lua-resty-rsa) — RSA functions for LuaJIT
 * [lua-resty-hawk](https://github.com/golgote/lua-resty-hawk) — Hawk authentication on Nginx with Lua and OpenResty
+* [lua-resty-urandom](https://github.com/p0pr0ck5/lua-resty-urandom) - Buffered wrapper for Linux/BSD kernel space CSPRNG
 
 #### Networking
 

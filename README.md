@@ -11,6 +11,8 @@
 
 ## How to Contribute on this List?
 
+There are at least three different ways to contribute:
+
 1. [Create a New Issue](https://github.com/bungle/awesome-resty/issues/new) where you describe the needed additions, deletions or changes.
 2. [Fork this repository](https://github.com/bungle/awesome-resty/fork) and make the changes, and create a pull request.
 3. [Post a reply](https://groups.google.com/forum/#!topic/openresty-en/VSj4_8GNORI) in the awesome-resty thread in openresty-en mailing list.

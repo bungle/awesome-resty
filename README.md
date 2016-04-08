@@ -53,7 +53,7 @@ There are at least three different ways to contribute:
   * [Books](#books)
   * [Tutorials and Guides](#tutorials-and-guides)
 * [Videos](#videos)
-* [Conferences, Workshops and Events](#conferences-workshops-and-events) 
+* [Conferences, Workshops and Events](#conferences-workshops-and-events)
 * [See Also](#see-also)
 
 ## Modules
@@ -160,7 +160,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lemplate](https://github.com/openresty/lemplate) — OpenResty/Lua template framework implementing Perl's TT2 templating language
 * [etlua](https://github.com/leafo/etlua) — Embedded Lua templates
 * [lua-resty-tmpl](https://github.com/lloydzhou/lua-resty-tmpl) — A simple template engine for Lua and OpenResty, derived from [lua-template](https://github.com/dannote/lua-template).
-* [Alternatives](https://github.com/bungle/lua-resty-template#alternatives) — Some alternative Lua templating solutions that may work just fine with OpenResty 
+* [Alternatives](https://github.com/bungle/lua-resty-template#alternatives) — Some alternative Lua templating solutions that may work just fine with OpenResty
 
 #### Validation
 
@@ -200,13 +200,13 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
 * [lua-resty-socks5](https://github.com/starius/lua-resty-socks5) — Lua SOCKS5 client for the ngx_lua based on the cosocket API
 * [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) — High-performance WAF built on the OpenResty stack
-* [lua-resty-tarpit](https://github.com/p0pr0ck5/lua-resty-tarpit) — OpenResty response time inflation, capture and delay unwanted requests 
+* [lua-resty-tarpit](https://github.com/p0pr0ck5/lua-resty-tarpit) — OpenResty response time inflation, capture and delay unwanted requests
 * [lua-resty-jsonrpc-batch](https://github.com/mosasiru/lua-resty-jsonrpc-batch) — JSON-RPC 2.0 Batch Request protocol module for OpenResty
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) — Lua library for limiting and controlling traffic in OpenResty/ngx_lua
 * [lua-resty-limits](https://github.com/membphis/lua-resty-limits) — Limits request every second or minute
 * [lua-resty-fastcgi](https://github.com/benagricola/lua-resty-fastcgi) — Lua FCGI client driver for ngx_lua based on the cosocket API
 * [lua-resty-ftpclient](https://github.com/Ahsialh/lua-resty-ftpclient) — Lua FTP client driver for the ngx_lua based on the cosocket API
- 
+
 
 #### Databases and Storages
 
@@ -217,7 +217,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) — Lua Redis client driver for the ngx_lua based on the cosocket API
 * [lua-resty-redis-connector](https://github.com/pintsized/lua-resty-redis-connector) — Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel
 * [lua-resty-redis-cluster](https://github.com/cuiweixie/lua-resty-redis-cluster) — OpenResty Redis Cluster Client
-* [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) (See also: [Mashape Fork](https://github.com/Mashape/lua-resty-cassandra)) — Pure Lua Cassandra client using CQL binary protocol
+* [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) — Pure Lua Cassandra client using CQL binary protocol
+* [lua-cassandra](https://github.com/thibaultCha/lua-cassandra) - Pure Lua, feature-rich, and cluster-aware Cassandra client
 * [lua-resty-bloomd](https://github.com/jie123108/lua-resty-bloomd) — A client library based on ngx_lua to interface with [bloomd servers](https://github.com/armon/bloomd)
 * [lua-resty-riak](https://github.com/bakins/lua-resty-riak) — Lua riak protocol buffer client driver for the ngx_lua based on the cosocket API
 * [lua-resty-mongol](https://github.com/Olivine-Labs/resty-mongol/) — Native Lua Mongodb driver which supports both luasocket and ngx_lua based on the cosocket API
@@ -236,7 +237,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [Test::Nginx](http://search.cpan.org/~agent/Test-Nginx-0.24/lib/Test/Nginx.pm) — Data-driven test scaffold for Nginx C module and OpenResty Lua library development (see real-word tests in [lua-resty-redis](https://github.com/openresty/lua-resty-redis/tree/master/t))
 * [nginx-systemtap-toolkit](https://github.com/openresty/nginx-systemtap-toolkit) — Real-time analyzing and diagnosing tools for Nginx based on SystemTap
 * [stapxx](https://github.com/openresty/stapxx) — Simple macro language extentions to systemtap
-* [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately 
+* [FlameGraph](https://github.com/brendangregg/FlameGraph) — Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately
 * [lua-resty-busted](https://github.com/thibaultCha/lua-resty-busted) — Test OpenResty scripts with busted
 * [lua-resty-test](https://github.com/membphis/lua-resty-test) — Test frame based on OpenResty
 * [busted](http://olivinelabs.com/busted/) ([Github](https://github.com/Olivine-Labs/busted)) — Elegant Lua unit testing
@@ -284,8 +285,8 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-gumbo](https://github.com/craigbarnes/lua-gumbo) — Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua
 * [lua-resty-sass](https://github.com/bungle/lua-resty-sass) — LuaJIT FFI bindings for libsass - A C/C++ implementation of a Sass compiler (http://libsass.org/).
 * [lua-resty-lanli](https://github.com/bungle/lua-resty-lanli) — LuaJIT FFI Bindings to Lanli HTML Sanitizer Library
-* [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library. 
-* [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm 
+* [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library.
+* [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm
 * [lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) — LuaJIT FFI-based cJSON library for OpenResty
 * [lua-resty-prettycjson](https://github.com/bungle/lua-resty-prettycjson) — Lua cJSON Pretty Formatter
 * [lua-resty-utf8rewind](https://github.com/bungle/lua-resty-utf8rewind) — LuaJIT FFI bindings for utf8rewind - a system library written in C designed to extend the default string handling functions with support for UTF-8 encoded text

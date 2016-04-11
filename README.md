@@ -289,6 +289,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-lanli](https://github.com/bungle/lua-resty-lanli) — LuaJIT FFI Bindings to Lanli HTML Sanitizer Library
 * [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library.
 * [lua-aho-corasick](https://github.com/cloudflare/lua-aho-corasick) — C++ and Lua Implementation of the Aho-Corasick (AC) string matching algorithm
+* [lua-resty-json](https://github.com/cloudflare/lua-resty-json) — JSON library for Lua and C (decoder only).
 * [lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) — LuaJIT FFI-based cJSON library for OpenResty
 * [lua-resty-prettycjson](https://github.com/bungle/lua-resty-prettycjson) — Lua cJSON Pretty Formatter
 * [lua-resty-utf8rewind](https://github.com/bungle/lua-resty-utf8rewind) — LuaJIT FFI bindings for utf8rewind - a system library written in C designed to extend the default string handling functions with support for UTF-8 encoded text

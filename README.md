@@ -101,7 +101,7 @@ Please also note that there is **`resty`** command line client included in OpenR
 
 Core Libraries are bundled in OpenResty package, and you don't need to separately install them.
 
-* [lua-resty-core](https://github.com/openresty/lua-resty-core) - New FFI-based Lua API for the ngx_lua module
+* [lua-resty-core](https://github.com/openresty/lua-resty-core) — New FFI-based Lua API for the ngx_lua module
 * [lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck) — Health Checker for Nginx Upstream Servers in Pure Lua
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) — String utilities and common hash functions for ngx_lua and LuaJIT
 * [lua-resty-lock](https://github.com/openresty/lua-resty-lock) — Simple nonblocking lock API for ngx_lua based on shared memory dictionaries

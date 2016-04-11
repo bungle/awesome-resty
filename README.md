@@ -343,6 +343,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
+* [lua-resty-newrelic](https://github.com/saks/lua-resty-newrelic) — New Relic bindings for a OpenResty / Lua
 
 #### Other Sources for Libraries
 

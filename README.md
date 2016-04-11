@@ -165,6 +165,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Validation
 
 * [lua-resty-validation](https://github.com/bungle/lua-resty-validation) — An extendable chaining validation and filtering library for Lua and OpenResty
+* [valua](https://github.com/sailorproject/valua) — Validation for lua! A module for making chained validations. Create your objects, append your tests, use and reuse it!
 
 #### Authentication and Authorization
 

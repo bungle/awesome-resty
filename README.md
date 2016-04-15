@@ -54,6 +54,7 @@ There are at least three different ways to contribute:
   * [Tutorials and Guides](#tutorials-and-guides)
 * [Videos](#videos)
 * [Conferences, Workshops and Events](#conferences-workshops-and-events)
+* [Demo Applications](#demo-applications)
 * [See Also](#see-also)
 
 ## Modules
@@ -383,6 +384,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
   * The Past, Present, and Future of OpenResty 2015 ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangyichun.pdf), [Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) (In Chinese)
   * Developing OpenResty Framework ([Slides](http://www.slideshare.net/AapoTalvensaari1/developing-openresty-framework-57404012), [Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
   * Be a Microservice Hero ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangshuai.pdf), [Video](https://www.youtube.com/watch?v=gqRMX8BQD98)) (In Chinese)
+
+## Demo Applications
+
+* [Chat Application presented at OpenResty Conference 2015 by Aapo Talvensaari](https://github.com/bungle/iresty)
 
 ## See Also
 

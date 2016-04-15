@@ -387,7 +387,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ## Demo Applications
 
-* [Chat Application presented at OpenResty Conference 2015](https://github.com/bungle/iresty) by [Aapo Talvensaari](@bungle)
+* [Chat Application presented at OpenResty Conference 2015](https://github.com/bungle/iresty) by [@bungle](https://github.com/bungle)
 
 ## See Also
 

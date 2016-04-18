@@ -347,6 +347,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
 * [lua-resty-newrelic](https://github.com/saks/lua-resty-newrelic) — New Relic bindings for a OpenResty / Lua
+* [lua-mailgun](https://github.com/leafo/lua-mailgun) — A Lua library for sending emails and interacting with the Mailgun API. Compatible with OpenResty via Lapis HTTP API, or any other Lua script via LuaSocket.
 
 #### Other Sources for Libraries
 

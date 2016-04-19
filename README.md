@@ -56,6 +56,7 @@ There are at least three different ways to contribute:
 * [Conferences, Workshops and Events](#conferences-workshops-and-events)
 * [Demo Applications](#demo-applications)
 * [See Also](#see-also)
+* [License](#license)
 
 ## Modules
 
@@ -398,3 +399,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by [@forhappy](https://github.com/forhappy)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

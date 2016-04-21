@@ -190,6 +190,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-hawk](https://github.com/golgote/lua-resty-hawk) — Hawk authentication on Nginx with Lua and OpenResty
 * [lua-resty-urandom](https://github.com/p0pr0ck5/lua-resty-urandom) — Buffered wrapper for Linux/BSD kernel space CSPRNG
 * [lua-resty-fastpbkdf2](https://github.com/mynameiscfed/lua-resty-fastpbkdf2) — Lua bindings to fastpbkdf2
+* [lua-argon2-ffi](https://github.com/thibaultCha/lua-argon2-ffi) — LuaJIT FFI binding for the Argon2 password hashing algorithm
 
 #### Networking
 

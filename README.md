@@ -168,7 +168,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Middleware and API Tools
 
 * [Kong](https://getkong.org/) ([GitHub](https://github.com/Mashape/kong)) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
-* [LSSO](https://github.com/maiome-development/lsso) — A lightweight SSO middleware for Nginx+Lua
+* [LSSO](https://github.com/maiome-development/lsso) — A Lightweight SSO middleware for Nginx + Lua
+* [apigateway](https://github.com/adobe-apiplatform/apigateway) — A Performant API Gateway based on Nginx and OpenResty
 
 #### Templating
 

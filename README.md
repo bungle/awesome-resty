@@ -1,4 +1,4 @@
-# awesome-resty [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-resty
 
 A List of OpenResty / Nginx modules, Lua libraries, and related resources.
 
@@ -29,7 +29,7 @@ There are at least three different ways to contribute:
 2. [Fork this repository](https://github.com/bungle/awesome-resty/fork) and make the changes, and create a pull request.
 3. [Post a reply](https://groups.google.com/forum/#!topic/openresty-en/VSj4_8GNORI) in the awesome-resty thread in openresty-en mailing list.
 
-## Table of Contents
+## Contents
 
 * [Modules](#modules)
   * [Core Modules](#core-modules)
@@ -418,7 +418,3 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [awesome-lua](https://github.com/forhappy/awesome-lua) by [@forhappy](https://github.com/forhappy)
 * [A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine](https://github.com/fcambus/nginx-resources)
 * [Where Lua is Used](https://sites.google.com/site/marbux/home/where-lua-is-used) and [Lua Uses](http://lua-users.org/wiki/LuaUses)
-
-## License
-
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)

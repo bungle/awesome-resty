@@ -29,7 +29,7 @@ There are at least three different ways to contribute:
 2. [Fork this repository](https://github.com/bungle/awesome-resty/fork) and make the changes, and create a pull request.
 3. [Post a reply](https://groups.google.com/forum/#!topic/openresty-en/VSj4_8GNORI) in the awesome-resty thread in openresty-en mailing list.
 
-## Contents
+## Table of Contents
 
 * [Modules](#modules)
   * [Core Modules](#core-modules)

@@ -323,6 +323,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 #### Document Formats
 
 * [lua-resty-libxl](https://github.com/bungle/lua-resty-libxl) — LuaJIT FFI-based LibXL (Excel) library for OpenResty
+* [lua-resty-haru](https://github.com/bungle/lua-resty-haru) — LuaJIT FFI-based libHaru (PDF) library for OpenResty
 * [lua-resty-hpdf](https://github.com/tavikukko/lua-resty-hpdf) — LuaJIT FFI-based libHaru (PDF) library for OpenResty
 
 #### Image Formats

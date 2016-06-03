@@ -156,7 +156,6 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) — Lua library for HTTP cookie manipulations for OpenResty/ngx_lua
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) — Session library for OpenResty implementing Secure Cookie Protocol
-* [lua-resty-macaroons](https://github.com/bungle/lua-resty-macaroons) — LuaJIT FFI Bindings to libmacaroons – Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification
 * [lua-resty-reqargs](https://github.com/bungle/lua-resty-reqargs) — Helper to Retrieve application/x-www-form-urlencoded, multipart/form-data, and application/json Request Arguments
 * [lua-resty-woothee](https://github.com/woothee/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
 * [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
@@ -187,6 +186,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Authentication and Authorization
 
+* [lua-resty-macaroons](https://github.com/bungle/lua-resty-macaroons) — LuaJIT FFI Bindings to libmacaroons – Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification
 * [lua-resty-openidc](https://github.com/pingidentity/lua-resty-openidc) — lua-resty-openidc is a library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality
 
 #### Cryptography

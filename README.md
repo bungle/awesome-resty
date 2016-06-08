@@ -134,6 +134,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Web Frameworks
 
 * [Lapis](http://leafo.net/lapis/) — Lapis is a framework for building web applications using MoonScript or Lua that runs inside of a customized version of Nginx called OpenResty
+* [lor](http://lor.sumory.com/) ([Github](https://github.com/sumory/lor)) — A fast and minimalist web framework based on OpenResty
 * [Vanilla](https://github.com/idevz/vanilla) — An OpenResty Web Framework
 * [Lusty](https://github.com/Olivine-Labs/lusty) — Lua RESTful Web Application Framework, an extensible and speedy web framework
 * [GIN](https://github.com/ostinelli/gin) — A fast, low-latency, low-memory footprint, web JSON-API framework with Test Driven Development helpers and patterns

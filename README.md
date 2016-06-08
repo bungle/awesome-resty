@@ -238,6 +238,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) — Nonblocking Lua PostgreSQL driver library for ngx_lua
 * [pgmoon](https://github.com/leafo/pgmoon) — A pure Lua Postgres driver for use in OpenResy & more
 * [lua-resty-orm](https://github.com/kran/lua-resty-orm) — Simple ORM for OpenResty
+* [lua-resty-model](https://github.com/pronan/lua-resty-model) — An easy-to-use sql mapper
 * [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) — Lua memcached client driver for the ngx_lua based on the cosocket API
 * [lua-resty-redis](https://github.com/openresty/lua-resty-redis) — Lua Redis client driver for the ngx_lua based on the cosocket API
 * [lua-resty-redis-connector](https://github.com/pintsized/lua-resty-redis-connector) — Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel

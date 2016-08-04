@@ -2,9 +2,9 @@
 
 A List of OpenResty / Nginx modules, Lua libraries, and related resources.
 
-## What is OpenResty
+## What is OpenResty![OpenResty Logo](http://openresty.org/images/logo.png)
 
-![OpenResty Logo](http://openresty.org/images/logo.png)OpenResty is a full-fledged web platform by integrating the standard Nginx core, LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
+OpenResty is a full-fledged web platform by integrating the standard Nginx core, LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
 
 By taking advantage of various well-designed Nginx modules (most of which are developed by the OpenResty team themselves), OpenResty effectively turns the nginx server into a powerful web app server, in which the web developers can use the Lua programming language to script various existing nginx C modules and Lua modules and construct extremely high-performance web applications that are capable to handle 10K ~ 1000K+ connections in a single box.
 

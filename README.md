@@ -1,3 +1,5 @@
+![alt tag](http://openresty.org/images/logo.png)
+
 # awesome-resty
 
 A List of OpenResty / Nginx modules, Lua libraries, and related resources.

@@ -1,10 +1,10 @@
-![alt tag](http://openresty.org/images/logo.png)
-
 # awesome-resty
 
 A List of OpenResty / Nginx modules, Lua libraries, and related resources.
 
 ## What is OpenResty
+
+![OpenResty Logo](http://openresty.org/images/logo.png)
 
 OpenResty is a full-fledged web platform by integrating the standard Nginx core, LuaJIT, many carefully written Lua libraries, lots of high quality 3rd-party Nginx modules, and most of their external dependencies. It is designed to help developers easily build scalable web applications, web services, and dynamic web gateways.
 

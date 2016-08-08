@@ -259,6 +259,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) — Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server
 * [ledis-openresty](https://github.com/holys/ledis-openresty) — Lua LedisDB client driver for the ngx_lua based on the cosocket API
 * [lua-resty-fastdfs](https://github.com/azurewang/lua-resty-fastdfs) — Nonblocking Lua FastDFS driver library for ngx_lua
+* [lua-resty-statsd](https://github.com/mediba-system/lua-resty-statsd) — StatsD client for OpenResty
+* [lua-resty-dogstatsd](https://github.com/mediba-system/lua-resty-dogstatsd) — A client for DogStatsD, an extension of the StatsD metric server for Datadog. Using nginx cosocket API
 * [openresty-statsd](https://github.com/lonelyplanet/openresty-statsd) — A Lua module for OpenResty to send metrics to StatsD
 
 #### Testing and Profiling
@@ -361,6 +363,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [raven-lua](https://github.com/cloudflare/raven-lua) — A small Lua interface to Sentry
 * [lua-nginx-logging](https://github.com/Lumate/lua-nginx-logging) — Logging utilities for Nginx written in Lua
 * [lua-resty-logger](https://github.com/kedyyan/lua-resty-logger) — Custom Logger Library for OpenResty
+* [lua-resty-fluent-logger](https://github.com/mediba-system/lua-resty-fluent-logger) — A structured logger for Fluentd (OpenResty / ngx_lua)
 
 #### Web APIs
 

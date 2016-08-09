@@ -373,7 +373,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [Moses](https://github.com/Yonaba/Moses) — A Lua utility-belt library for functional programming. It complements the built-in Lua table library, making easier operations on arrays, lists, collections
 * [Underscore.lua](https://github.com/mirven/underscore.lua) — Underscore.lua is a Lua library that provides a set of utility functions for dealing with iterators, arrays, tables, and functions
 * [Lodash.lua](https://github.com/axmat/lodash.lua) — A functional programming library for Lua in respect to the Javascript library Lodash
-* [More Functional Projects on GitHub...](https://github.com/search?l=Lua&o=desc&q=lua+functional&s=stars&type=Repositories&utf8=%E2%9C%93)
+* [Search for more "Functional Lua" projects on GitHub...](https://github.com/search?l=Lua&o=desc&q=lua+functional&s=stars&type=Repositories&utf8=%E2%9C%93)
 
 #### Web APIs
 

@@ -61,6 +61,7 @@ There are at least three different ways to contribute:
   * [Caching](#caching)
   * [Metrics and Statistics](#metrics-and-statistics)
   * [Logging](#logging)
+  * [Functional Programmin](#functional-programming)
   * [Web APIs](#web-apis)
   * [Other Sources for Libraries](#other-sources-for-libraries)
 * [Books and Tutorials](#books-and-tutorials)
@@ -364,6 +365,15 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-nginx-logging](https://github.com/Lumate/lua-nginx-logging) — Logging utilities for Nginx written in Lua
 * [lua-resty-logger](https://github.com/kedyyan/lua-resty-logger) — Custom Logger Library for OpenResty
 * [lua-resty-fluent-logger](https://github.com/mediba-system/lua-resty-fluent-logger) — A structured logger for Fluentd (OpenResty / ngx_lua)
+
+#### Functional Programming
+
+* [Lua Fun](https://github.com/rtsisyk/luafun) — Lua Fun is a high-performance functional programming library for Lua designed with LuaJIT's trace compiler in mind
+* [Penlight](https://github.com/stevedonovan/Penlight) — Penlight brings together a set of generally useful pure Lua modules, focusing on input data handling (such as reading configuration files), functional programming (such as map, reduce, placeholder expressions, etc), and OS path management
+* [Moses](https://github.com/Yonaba/Moses) — A Lua utility-belt library for functional programming. It complements the built-in Lua table library, making easier operations on arrays, lists, collections
+* [Underscore.lua](https://github.com/mirven/underscore.lua) — Underscore.lua is a Lua library that provides a set of utility functions for dealing with iterators, arrays, tables, and functions
+* [Lodash.lua](https://github.com/axmat/lodash.lua) — A functional programming library for Lua in respect to the Javascript library Lodash
+* [More Functional Projects on GitHub...](https://github.com/search?l=Lua&o=desc&q=lua+functional&s=stars&type=Repositories&utf8=%E2%9C%93)
 
 #### Web APIs
 

@@ -61,7 +61,7 @@ There are at least three different ways to contribute:
   * [Caching](#caching)
   * [Metrics and Statistics](#metrics-and-statistics)
   * [Logging](#logging)
-  * [Functional Programmin](#functional-programming)
+  * [Functional Programming](#functional-programming)
   * [Web APIs](#web-apis)
   * [Other Sources for Libraries](#other-sources-for-libraries)
 * [Books and Tutorials](#books-and-tutorials)

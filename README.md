@@ -296,6 +296,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-batch](https://github.com/starius/lua-resty-batch) — Merge multiple requests in nginx to a single sub-request
 * [lua-resty-shell](https://github.com/juce/lua-resty-shell) — Tiny non-blocking subprocess / shell library to use with OpenResty application server (using [sockproc](https://github.com/juce/sockproc))
 * [lua-resty-exec](https://github.com/jprjr/lua-resty-exec) — Non-blocking, non-shell-spawning, streaming and non-streaming subprocess library (using [sockexec](https://github.com/jprjr/sockexec))
+* [lua-resty-repl](https://github.com/saks/lua-resty-repl) — Interactive console (REPL) for OpenResty and LuaJIT code
 * [lua-resty-fileinfo](https://github.com/bungle/lua-resty-fileinfo) — LuaJIT FFI bindings to libmagic, magic number recognition library - tries to determine file types
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) - LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
@@ -316,6 +317,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Compression
 
+* [lua-resty-zip](https://github.com/doujiang24/lua-resty-zip) — ZIP functions(compress/uncompress) for LuaJIT
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) — LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
 
 #### Text Formats

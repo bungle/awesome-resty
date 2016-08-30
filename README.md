@@ -133,6 +133,21 @@ Core modules come bundled in OpenResty package.
 * [ngx_http_fastcgi_module](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html) — The ngx_http_fastcgi_module module allows passing requests to a FastCGI server
 * [ngx_http_uwsgi_module](http://nginx.org/en/docs/http/ngx_http_uwsgi_module.html) — The ngx_http_uwsgi_module module allows passing requests to a uwsgi server
 * [ngx_http_scgi_module](http://nginx.org/en/docs/http/ngx_http_scgi_module.html) — The ngx_http_scgi_module module allows passing requests to an SCGI server
+* [ngx_http_memcached_module](http://nginx.org/en/docs/http/ngx_http_memcached_module.html) — he ngx_http_memcached_module module is used to obtain responses from a memcached server
+* [ngx_http_limit_conn_module](http://nginx.org/en/docs/http/ngx_http_limit_conn_module.html) — The ngx_http_limit_conn_module module is used to limit the number of connections per the defined key, in particular, the number of connections from a single IP address
+* [ngx_http_limit_req_module](http://nginx.org/en/docs/http/ngx_http_limit_req_module.html) — he ngx_http_limit_req_module module is used to limit the request processing rate per a defined key, in particular, the processing rate of requests coming from a single IP address
+* [ngx_http_empty_gif_module](http://nginx.org/en/docs/http/ngx_http_empty_gif_module.html) — The ngx_http_empty_gif_module module emits single-pixel transparent GIF
+* [ngx_http_browser_module](http://nginx.org/en/docs/http/ngx_http_browser_module.html) — The ngx_http_browser_module module creates variables whose values depend on the value of the “User-Agent” request header field
+* [ngx_http_upstream_module](http://nginx.org/en/docs/http/ngx_http_upstream_module.html) — http://nginx.org/en/docs/http/ngx_http_upstream_module.html
+* [ngx_http_perl_module](http://nginx.org/en/docs/http/ngx_http_perl_module.html) — The ngx_http_perl_module module is used to implement location and variable handlers in Perl and insert Perl calls into SSI
+* [ngx_mail_core_module](http://nginx.org/en/docs/mail/ngx_mail_core_module.html)
+* [ngx_mail_ssl_module](http://nginx.org/en/docs/mail/ngx_mail_ssl_module.html) — The ngx_mail_ssl_module module provides the necessary support for a mail proxy server to work with the SSL/TLS protocol
+* [ngx_mail_smtp_module](http://nginx.org/en/docs/mail/ngx_mail_smtp_module.html) 
+* [ngx_mail_imap_module](http://nginx.org/en/docs/mail/ngx_mail_imap_module.html) 
+* [ngx_mail_pop3_module](http://nginx.org/en/docs/mail/ngx_mail_pop3_module.html)
+* [ngx_stream_core_module](http://nginx.org/en/docs/stream/ngx_stream_core_module.html)
+* [ngx_stream_ssl_module](http://nginx.org/en/docs/stream/ngx_stream_ssl_module.html) — The ngx_stream_ssl_module module provides the necessary support for a stream proxy server to work with the SSL/TLS protocol
+* [ngx_stream_proxy_module](http://nginx.org/en/docs/stream/ngx_stream_proxy_module.html) — The ngx_stream_proxy_module module allows proxying data streams over TCP, UDP, and UNIX-domain sockets
 
 Please also note that there is **`resty`** command line client included in OpenResty bundle. The [command line client sources](https://github.com/openresty/resty-cli) can be found on Github.
 

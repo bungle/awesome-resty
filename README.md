@@ -79,7 +79,7 @@ There are at least three different ways to contribute:
 
 Core modules come bundled in OpenResty package.
 
-* [ngx_openresty](https://github.com/openresty/ngx_openresty) — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
+* [ngx_openresty](https://github.com/openresty/openresty) — Turning Nginx into a full-fledged Web App Server - Sources for OpenResty Bundle Generation
 * [lua-nginx-module](https://github.com/openresty/lua-nginx-module) — Embed the power of Lua into Nginx
 * [stream-lua-nginx-module](https://github.com/openresty/stream-lua-nginx-module) — Embed the power of Lua into Nginx stream/TCP Servers
 * [echo-nginx-module](https://github.com/openresty/echo-nginx-module) — An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
@@ -98,6 +98,28 @@ Core modules come bundled in OpenResty package.
 * [ngx_postgres](https://github.com/FRiCKLE/ngx_postgres) — Upstream module that allows Nginx to communicate directly with PostgreSQL database
 * [form-input-nginx-module](https://github.com/calio/form-input-nginx-module) — This is a nginx module that reads HTTP POST and PUT request body encoded in "application/x-www-form-urlencoded", and parse the arguments in request body into nginx variables.
 * [ngx_coolkit](https://github.com/FRiCKLE/ngx_coolkit) — Collection of small and useful nginx add-ons
+* [ngx_devel_kit](https://github.com/simpl/ngx_devel_kit) — an Nginx module that adds additional generic tools that module developers can use in their own modules
+* [ngx_http_ssl_module](http://nginx.org/en/docs/http/ngx_http_ssl_module.html) — The ngx_http_ssl_module module provides the necessary support for HTTPS
+* [ngx_http_v2_module](https://nginx.org/en/docs/http/ngx_http_v2_module.html) — The ngx_http_v2_module module provides support for HTTP/2
+* [ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html) — The ngx_http_realip_module module is used to change the client address and optional port to the one sent in the specified header fields
+* [ngx_http_addition_module](http://nginx.org/en/docs/http/ngx_http_addition_module.html) — The ngx_http_addition_module module is a filter that adds text before and after a response
+* [ngx_http_xslt_module](http://nginx.org/en/docs/http/ngx_http_xslt_module.html) — The ngx_http_xslt_module is a filter that transforms XML responses using one or more XSLT stylesheet
+* [ngx_http_image_filter_module](http://nginx.org/en/docs/http/ngx_http_image_filter_module.html) — The ngx_http_image_filter_module module is a filter that transforms images in JPEG, GIF, and PNG formats
+* [ngx_http_geoip_module](http://nginx.org/en/docs/http/ngx_http_geoip_module.html) — The ngx_http_geoip_module module creates variables with values depending on the client IP address, using the precompiled MaxMind databases
+* [ngx_http_sub_module](http://nginx.org/en/docs/http/ngx_http_sub_module.html) — The ngx_http_sub_module module is a filter that modifies a response by replacing one specified string by another
+* [ngx_http_dav_module](http://nginx.org/en/docs/http/ngx_http_dav_module.html) — The ngx_http_dav_module module is intended for file management automation via the WebDAV protocol. The module processes HTTP and WebDAV methods PUT, DELETE, MKCOL, COPY, and MOVE
+* [ngx_http_flv_module](http://nginx.org/en/docs/http/ngx_http_flv_module.html) — The ngx_http_flv_module module provides pseudo-streaming server-side support for Flash Video (FLV) files
+* [ngx_http_mp4_module](http://nginx.org/en/docs/http/ngx_http_mp4_module.html) — The ngx_http_mp4_module module provides pseudo-streaming server-side support for MP4 files. Such files typically have the .mp4, .m4v, or .m4a filename extensions
+* [ngx_http_gunzip_module](http://nginx.org/en/docs/http/ngx_http_gunzip_module.html) — The ngx_http_gunzip_module module is a filter that decompresses responses with “Content-Encoding: gzip” for clients that do not support “gzip” encoding method. The module will be useful when it is desirable to store data compressed to save space and reduce I/O costs
+* [ngx_http_gzip_static_module](http://nginx.org/en/docs/http/ngx_http_gzip_static_module.html) — The ngx_http_gzip_static_module module allows sending precompressed files with the “.gz” filename extension instead of regular files
+* [ngx_http_auth_request_module](http://nginx.org/en/docs/http/ngx_http_auth_request_module.html) — The ngx_http_auth_request_module module implements client authorization based on the result of a subrequest
+* []() — 
+* []() — 
+* []() — 
+* []() — 
+* []() — 
+* []() — 
+* []() — []() — 
 
 Please also note that there is **`resty`** command line client included in OpenResty bundle. The [command line client sources](https://github.com/openresty/resty-cli) can be found on Github.
 

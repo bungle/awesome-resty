@@ -104,8 +104,9 @@ Please also note that there is **`resty`** command line client included in OpenR
 
 #### Core Nginx Modules
 
-To learn more about Nginx Core Modules, please refer [Nginx Documentation](http://nginx.org/en/docs/). Some modules that come with Nginx are:
+To learn more about Nginx Core Modules, please refer [Nginx Documentation](http://nginx.org/en/docs/). Some modules that come with Nginx are (not all of them are build by default):
 
+* [ngx_http_core_module](http://nginx.org/en/docs/http/ngx_http_core_module.html) 
 * [ngx_http_ssl_module](http://nginx.org/en/docs/http/ngx_http_ssl_module.html) — The ngx_http_ssl_module module provides the necessary support for HTTPS
 * [ngx_http_v2_module](https://nginx.org/en/docs/http/ngx_http_v2_module.html) — The ngx_http_v2_module module provides support for HTTP/2
 * [ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html) — The ngx_http_realip_module module is used to change the client address and optional port to the one sent in the specified header fields

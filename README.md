@@ -113,13 +113,14 @@ Core modules come bundled in OpenResty package.
 * [ngx_http_gunzip_module](http://nginx.org/en/docs/http/ngx_http_gunzip_module.html) — The ngx_http_gunzip_module module is a filter that decompresses responses with “Content-Encoding: gzip” for clients that do not support “gzip” encoding method. The module will be useful when it is desirable to store data compressed to save space and reduce I/O costs
 * [ngx_http_gzip_static_module](http://nginx.org/en/docs/http/ngx_http_gzip_static_module.html) — The ngx_http_gzip_static_module module allows sending precompressed files with the “.gz” filename extension instead of regular files
 * [ngx_http_auth_request_module](http://nginx.org/en/docs/http/ngx_http_auth_request_module.html) — The ngx_http_auth_request_module module implements client authorization based on the result of a subrequest
-* []() — 
-* []() — 
-* []() — 
-* []() — 
-* []() — 
-* []() — 
-* []() — []() — 
+* [ngx_http_random_index_module](http://nginx.org/en/docs/http/ngx_http_random_index_module.html) — The ngx_http_random_index_module module processes requests ending with the slash character (‘/’) and picks a random file in a directory to serve as an index file
+* [ngx_http_secure_link_module](http://nginx.org/en/docs/http/ngx_http_secure_link_module.html) — The ngx_http_secure_link_module module (0.7.18) is used to check authenticity of requested links, protect resources from unauthorized access, and limit link lifetime
+* [ngx_http_slice_module](https://nginx.org/en/docs/http/ngx_http_slice_module.html) — The ngx_http_slice_module module is a filter that splits a request into subrequests, each returning a certain range of response
+* [ngx_http_stub_status_module](https://nginx.org/en/docs/http/ngx_http_stub_status_module.html) — The ngx_http_stub_status_module module provides access to basic status information
+* [ngx_http_charset_module](http://nginx.org/en/docs/http/ngx_http_charset_module.html) — The ngx_http_charset_module module adds the specified charset to the “Content-Type” response header field
+* [ngx_http_gzip_module](http://nginx.org/en/docs/http/ngx_http_gzip_module.html) — The ngx_http_gzip_module module is a filter that compresses responses using the “gzip” method
+* [ngx_http_ssi_module](http://nginx.org/en/docs/http/ngx_http_ssi_module.html) — The ngx_http_ssi_module module is a filter that processes SSI (Server Side Includes) commands in responses passing through it
+* [ngx_http_userid_module](http://nginx.org/en/docs/http/ngx_http_userid_module.html) — The ngx_http_userid_module module sets cookies suitable for client identification
 
 Please also note that there is **`resty`** command line client included in OpenResty bundle. The [command line client sources](https://github.com/openresty/resty-cli) can be found on Github.
 

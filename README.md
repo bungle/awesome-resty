@@ -99,6 +99,11 @@ Core modules come bundled in OpenResty package.
 * [form-input-nginx-module](https://github.com/calio/form-input-nginx-module) — This is a nginx module that reads HTTP POST and PUT request body encoded in "application/x-www-form-urlencoded", and parse the arguments in request body into nginx variables.
 * [ngx_coolkit](https://github.com/FRiCKLE/ngx_coolkit) — Collection of small and useful nginx add-ons
 * [ngx_devel_kit](https://github.com/simpl/ngx_devel_kit) — an Nginx module that adds additional generic tools that module developers can use in their own modules
+
+Please also note that there is **`resty`** command line client included in OpenResty bundle. The [command line client sources](https://github.com/openresty/resty-cli) can be found on Github.
+
+#### Core Nginx Modules
+
 * [ngx_http_ssl_module](http://nginx.org/en/docs/http/ngx_http_ssl_module.html) — The ngx_http_ssl_module module provides the necessary support for HTTPS
 * [ngx_http_v2_module](https://nginx.org/en/docs/http/ngx_http_v2_module.html) — The ngx_http_v2_module module provides support for HTTP/2
 * [ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html) — The ngx_http_realip_module module is used to change the client address and optional port to the one sent in the specified header fields
@@ -149,11 +154,8 @@ Core modules come bundled in OpenResty package.
 * [ngx_stream_ssl_module](http://nginx.org/en/docs/stream/ngx_stream_ssl_module.html) — The ngx_stream_ssl_module module provides the necessary support for a stream proxy server to work with the SSL/TLS protocol
 * [ngx_stream_proxy_module](http://nginx.org/en/docs/stream/ngx_stream_proxy_module.html) — The ngx_stream_proxy_module module allows proxying data streams over TCP, UDP, and UNIX-domain sockets
 
-Please also note that there is **`resty`** command line client included in OpenResty bundle. The [command line client sources](https://github.com/openresty/resty-cli) can be found on Github.
 
-#### Core Nginx Modules
-
-* Please refer [Nginx Documentation](http://nginx.org/en/docs/) about the Core Nginx Modules.
+**To learn more about Nginx Core Modules, please refer [Nginx Documentation](http://nginx.org/en/docs/).**
 
 #### Third-party Nginx Modules
 

@@ -121,6 +121,18 @@ Core modules come bundled in OpenResty package.
 * [ngx_http_gzip_module](http://nginx.org/en/docs/http/ngx_http_gzip_module.html) — The ngx_http_gzip_module module is a filter that compresses responses using the “gzip” method
 * [ngx_http_ssi_module](http://nginx.org/en/docs/http/ngx_http_ssi_module.html) — The ngx_http_ssi_module module is a filter that processes SSI (Server Side Includes) commands in responses passing through it
 * [ngx_http_userid_module](http://nginx.org/en/docs/http/ngx_http_userid_module.html) — The ngx_http_userid_module module sets cookies suitable for client identification
+* [ngx_http_access_module](http://nginx.org/en/docs/http/ngx_http_access_module.html) — The ngx_http_access_module module allows limiting access to certain client addresses
+* [ngx_http_auth_basic_module](http://nginx.org/en/docs/http/ngx_http_auth_basic_module.html) — The ngx_http_auth_basic_module module allows limiting access to resources by validating the user name and password using the “HTTP Basic Authentication” protocol
+* [ngx_http_autoindex_module](http://nginx.org/en/docs/http/ngx_http_autoindex_module.html) — The ngx_http_autoindex_module module processes requests ending with the slash character (‘/’) and produces a directory listing
+* [ngx_http_geo_module](http://nginx.org/en/docs/http/ngx_http_geo_module.html) — The ngx_http_geo_module module creates variables with values depending on the client IP address
+* [ngx_http_map_module](http://nginx.org/en/docs/http/ngx_http_map_module.html) — The ngx_http_map_module module creates variables whose values depend on values of other variables
+* [ngx_http_split_clients_module](http://nginx.org/en/docs/http/ngx_http_split_clients_module.html) — The ngx_http_split_clients_module module creates variables suitable for A/B testing, also known as split testing
+* [ngx_http_referer_module](http://nginx.org/en/docs/http/ngx_http_referer_module.html) — The ngx_http_referer_module module is used to block access to a site for requests with invalid values in the “Referer” header field
+* [ngx_http_rewrite_module](http://nginx.org/en/docs/http/ngx_http_rewrite_module.html) — The ngx_http_rewrite_module module is used to change request URI using PCRE regular expressions, return redirects, and conditionally select configurations
+* [ngx_http_proxy_module](http://nginx.org/en/docs/http/ngx_http_proxy_module.html) — The ngx_http_proxy_module module allows passing requests to another server
+* [ngx_http_fastcgi_module](http://nginx.org/en/docs/http/ngx_http_fastcgi_module.html) — The ngx_http_fastcgi_module module allows passing requests to a FastCGI server
+* [ngx_http_uwsgi_module](http://nginx.org/en/docs/http/ngx_http_uwsgi_module.html) — The ngx_http_uwsgi_module module allows passing requests to a uwsgi server
+* [ngx_http_scgi_module](http://nginx.org/en/docs/http/ngx_http_scgi_module.html) — The ngx_http_scgi_module module allows passing requests to an SCGI server
 
 Please also note that there is **`resty`** command line client included in OpenResty bundle. The [command line client sources](https://github.com/openresty/resty-cli) can be found on Github.
 

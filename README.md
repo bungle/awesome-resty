@@ -22,7 +22,7 @@ OpenResty is not an Nginx fork. It is just a software bundle. Most of the patche
 * Mailing List: https://groups.google.com/forum/#!forum/openresty-en ([Chinese List](https://groups.google.com/forum/#!forum/openresty))
 * Github Organization: https://github.com/openresty
 * Lead Developer: [@agentzh](https://github.com/agentzh)
-* OpenResty Official Package Manager (`opm`): [package repository](https://opm.openresty.org/), [opm sources](https://github.com/openresty/opm)
+* OpenResty Package Manager (`opm`): [package repository](https://opm.openresty.org/), [opm sources](https://github.com/openresty/opm)
 
 ## How to Contribute on this List?
 

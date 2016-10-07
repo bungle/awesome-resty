@@ -453,6 +453,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 #### Other Sources for Libraries
 
+* [OpenResty Package Manager Repository](https://opm.openresty.org/)
 * [LuaRocks Repository](https://luarocks.org/) ([Search for *resty* libraries in LuaRocks](https://luarocks.org/search?q=resty&non_root=on))
 * [Github Search for lua-resty-* Libraries](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=stars&type=Repositories&utf8=%E2%9C%93), or [the recently updated ones](https://github.com/search?o=desc&q=lua-resty+in%3Aname&ref=searchresults&s=updated&type=Repositories&utf8=%E2%9C%93)
 * [Lua Toolbox](https://lua-toolbox.com/)

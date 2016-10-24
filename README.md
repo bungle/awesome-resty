@@ -310,6 +310,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-mongol](https://github.com/Olivine-Labs/resty-mongol/) — Native Lua Mongodb driver which supports both luasocket and ngx_lua based on the cosocket API
 * [lua-resty-mongo](https://github.com/nightsailer/lua-resty-mongo) — Lua mongodb client driver for the ngx_lua based on the cosocket API
 * [lua-mongo](https://github.com/boyxuper/lua-mongo) — A simple Lua Mongo driver (a fork made to work with co-sockets)
+* [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) — OpenResty client for InfluxDB
 * [lua-resty-kyototycoon](https://github.com/cloudflare/lua-resty-kyototycoon) — Lua client driver for KyotoTycoon using its native wire protocol (OpenResty/ngx_lua)
 * [lua-resty-kyototycoon](https://github.com/sjnam/lua-resty-kyototycoon) — Lua client driver for KyotoTycoon using its binary protocol
 * [lua-resty-tarantool](https://github.com/perusio/lua-resty-tarantool) — Library for working with Tarantool from Nginx with the embedded Lua module or with OpeRresty

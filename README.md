@@ -187,6 +187,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-redis-parser](https://github.com/openresty/lua-redis-parser) — Redis reply parser and request constructor library for Lua
 * [lua-rds-parser](https://github.com/openresty/lua-rds-parser) — Resty-DBD-Stream (RDS) parser for Lua written in C
 * [lua-cjson](https://github.com/openresty/lua-cjson) — Lua cJSON is a fast JSON encoding / parsing module for Lua
+* [lua-resty-shdict-simple](https://github.com/openresty/lua-resty-shdict-simple) — Simple applicaton-oriented interface to the OpenResty shared dictionary API
+* [lua-resty-memcached-shdict](https://github.com/openresty/lua-resty-memcached-shdict) — Powerful memcached client with a shdict caching layer and many other features
 
 #### Web Frameworks
 

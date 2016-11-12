@@ -107,7 +107,7 @@ Please also note that there is **`resty`** command line client included in OpenR
 
 To learn more about Nginx Core Modules, please refer [Nginx Documentation](http://nginx.org/en/docs/). Some modules that come with Nginx are (not all of them are build by default):
 
-* [ngx_http_core_module](http://nginx.org/en/docs/http/ngx_http_core_module.html) 
+* [ngx_http_core_module](http://nginx.org/en/docs/http/ngx_http_core_module.html)
 * [ngx_http_ssl_module](http://nginx.org/en/docs/http/ngx_http_ssl_module.html) — The ngx_http_ssl_module module provides the necessary support for HTTPS
 * [ngx_http_v2_module](https://nginx.org/en/docs/http/ngx_http_v2_module.html) — The ngx_http_v2_module module provides support for HTTP/2
 * [ngx_http_realip_module](http://nginx.org/en/docs/http/ngx_http_realip_module.html) — The ngx_http_realip_module module is used to change the client address and optional port to the one sent in the specified header fields
@@ -151,8 +151,8 @@ To learn more about Nginx Core Modules, please refer [Nginx Documentation](http:
 * [ngx_http_perl_module](http://nginx.org/en/docs/http/ngx_http_perl_module.html) — The ngx_http_perl_module module is used to implement location and variable handlers in Perl and insert Perl calls into SSI
 * [ngx_mail_core_module](http://nginx.org/en/docs/mail/ngx_mail_core_module.html)
 * [ngx_mail_ssl_module](http://nginx.org/en/docs/mail/ngx_mail_ssl_module.html) — The ngx_mail_ssl_module module provides the necessary support for a mail proxy server to work with the SSL/TLS protocol
-* [ngx_mail_smtp_module](http://nginx.org/en/docs/mail/ngx_mail_smtp_module.html) 
-* [ngx_mail_imap_module](http://nginx.org/en/docs/mail/ngx_mail_imap_module.html) 
+* [ngx_mail_smtp_module](http://nginx.org/en/docs/mail/ngx_mail_smtp_module.html)
+* [ngx_mail_imap_module](http://nginx.org/en/docs/mail/ngx_mail_imap_module.html)
 * [ngx_mail_pop3_module](http://nginx.org/en/docs/mail/ngx_mail_pop3_module.html)
 * [ngx_stream_core_module](http://nginx.org/en/docs/stream/ngx_stream_core_module.html)
 * [ngx_stream_ssl_module](http://nginx.org/en/docs/stream/ngx_stream_ssl_module.html) — The ngx_stream_ssl_module module provides the necessary support for a stream proxy server to work with the SSL/TLS protocol
@@ -365,6 +365,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer
 * [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket) - Automatic LuaSocket/cosockets compatibility module
 * [Inspect](https://github.com/kikito/inspect.lua) ([Github](https://github.com/kikito/inspect.lua)) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
+* [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) ([Github](https://github.com/lilien1010/lua-resty-maxminddb)) — LuaJIT FFI Bindings to official libmaxminddb , to get ip location with ip database offered by maxmind
 
 #### Date and Time
 

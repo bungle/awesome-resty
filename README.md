@@ -282,6 +282,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) — Lua WebSocket implementation for the ngx_lua module
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) — Utility functions for working with IP addresses in OpenResty
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
+* [lua-resty-dns-client](https://github.com/Mashape/lua-resty-dns-client) — Lua library containing a DNS client, several utilities, and a load-balancer
 * [lua-resty-socks5](https://github.com/starius/lua-resty-socks5) — Lua SOCKS5 client for the ngx_lua based on the cosocket API
 * [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) — High-performance WAF built on the OpenResty stack
 * [lua-resty-tarpit](https://github.com/p0pr0ck5/lua-resty-tarpit) — OpenResty response time inflation, capture and delay unwanted requests

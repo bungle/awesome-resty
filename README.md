@@ -453,6 +453,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-github](https://github.com/jamesmarlowe/lua-resty-github) — Lua library for using the github api in the ngx_lua nginx module
 * [lua-resty-hipchat](https://github.com/jamesmarlowe/lua-resty-hipchat) — Lua library for using the hipchat api
+* [lua-resty-newrelic](https://github.com/saks/lua-resty-newrelic) — Lua newrelic SDK for the ngx_lua based on the C SDK
 * [api-gateway-aws](https://github.com/adobe-apiplatform/api-gateway-aws) — Lua module for AWS APIs. The missing AWS SDK from Nginx / OpenResty. Use it to proxy AWS APIs in a simple fashion, with any HTTP Client that you prefer.
 * [lua-resty-aws](https://github.com/grosskur/lua-resty-aws) — AWS signature V4 library for OpenResty + Lua
 * [lua-resty-aws-email](https://github.com/paragasu/lua-resty-aws-email) — Send email using Amazon Simple Email Service(SES) API

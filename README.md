@@ -292,6 +292,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-ftpclient](https://github.com/Ahsialh/lua-resty-ftpclient) — Lua FTP client driver for the ngx_lua based on the cosocket API
 * [lua-capnproto](https://github.com/cloudflare/lua-capnproto) — Cap’n Proto is an insanely fast data interchange format and capability-based RPC system
 * [lua-resty-tornera](https://github.com/pinge/lua-resty-tornera) — A traffic replay tool with an easy to use HTTP API for OpenResty / LuaJIT
+* [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) — Library to interface with the consul HTTP API from ngx_lua
 
 
 #### Databases and Storages

@@ -299,6 +299,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) — Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
 * [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) — Nonblocking Lua PostgreSQL driver library for ngx_lua
 * [pgmoon](https://github.com/leafo/pgmoon) — A pure Lua Postgres driver for use in OpenResy & more
+* [lua-resty-couchdb](https://github.com/paragasu/lua-resty-couchdb) — Lua resty minimal couchdb client using nginx proxy ngx.location_capture
 * [lua-resty-orm](https://github.com/kran/lua-resty-orm) — Simple ORM for OpenResty
 * [lua-resty-mvc](https://github.com/pronan/lua-resty-mvc) — You don't need that complicated MVC framework! With just a plain folder with several simple files, you can enjoy basic but most frequently used MVC features.
 * [lua-resty-memcached](https://github.com/openresty/lua-resty-memcached) — Lua memcached client driver for the ngx_lua based on the cosocket API

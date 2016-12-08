@@ -505,6 +505,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 ## Conferences, Workshops and Events
 
+* Writing Optimal Lua Code for LuaJIT and OpenResty ([Slides](https://www.lua.org/wshop16/Zhang.pdf), [Video](https://www.youtube.com/watch?v=FfhEdF40nhQ))
 * [OpenResty Con 2015, Beijing, China](http://www.iresty.com/)
   * The Past, Present, and Future of OpenResty 2015 ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangyichun.pdf), [Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) (In Chinese)
   * Developing OpenResty Framework ([Slides](http://www.slideshare.net/AapoTalvensaari1/developing-openresty-framework-57404012), [Video](https://www.youtube.com/watch?v=VqBt5icKCI8))

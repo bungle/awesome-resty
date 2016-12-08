@@ -459,6 +459,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-newrelic](https://github.com/saks/lua-resty-newrelic) — Lua newrelic SDK for the ngx_lua based on the C SDK
 * [api-gateway-aws](https://github.com/adobe-apiplatform/api-gateway-aws) — Lua module for AWS APIs. The missing AWS SDK from Nginx / OpenResty. Use it to proxy AWS APIs in a simple fashion, with any HTTP Client that you prefer.
 * [lua-resty-aws](https://github.com/grosskur/lua-resty-aws) — AWS signature V4 library for OpenResty + Lua
+* [lua-resty-aws-sdk](https://github.com/kiddkai/lua-resty-aws-sdk) — A raw AWS SDK generated from API specification
 * [lua-resty-aws-email](https://github.com/paragasu/lua-resty-aws-email) — Send email using Amazon Simple Email Service(SES) API
 * [lua-resty-aws-auth](https://github.com/paragasu/lua-resty-aws-auth) — Simple Lua resty utilities to generate Amazon v4 authorization and signature headers
 * [lua-resty-s3](https://github.com/jamesmarlowe/lua-resty-s3) — Lua driver for uploading content to Amazon S3

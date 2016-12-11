@@ -509,14 +509,14 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
   * New Development of OpenResty in 2016 ([Slides](http://openresty.org/slides/New-development-of-OpenResty-in-2016.pdf), [Video in Chinese](https://youtu.be/H5UFGDaf9Xk))
 * [Lua Workshop 2016, San Francisco, USA](http://www.luasf2016.org/) ([Lua.org](https://www.lua.org/wshop16.html))
   * Writing Optimal Lua Code for LuaJIT and OpenResty ([Slides](https://www.lua.org/wshop16/Zhang.pdf), [Video](https://www.youtube.com/watch?v=FfhEdF40nhQ))
-* [OpenResty Con 2015, Beijing, China](http://www.iresty.com/)
-  * The Past, Present, and Future of OpenResty 2015 ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangyichun.pdf), [Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) (In Chinese)
-  * Developing OpenResty Framework ([Slides](http://www.slideshare.net/AapoTalvensaari1/developing-openresty-framework-57404012), [Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
-  * Be a Microservice Hero ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangshuai.pdf), [Video](https://www.youtube.com/watch?v=gqRMX8BQD98)) (In Chinese)
 * [Bay Area OpenResty Meetup 2016 / 3](http://www.meetup.com/Bay-Area-OpenResty-Meetup/)
   * adobe.io ([Slides](http://openresty.org/slides/adobe-io-openresty-meetup.pdf), [Video](https://www.youtube.com/watch?v=EsLO4aE4TWQ))
   * KONG ([Slides](https://openresty.org/slides/kong_openresty_slides.pdf), [Video](https://www.youtube.com/watch?v=QubcdsDsq_k))
   * What's new in OpenResty for 2016 ([Slides](https://openresty.org/slides/Whats-new-in-OpenResty-for-2016.pdf), [Video](https://www.youtube.com/watch?v=fUGXEkdiqmk))
+* [OpenResty Con 2015, Beijing, China](http://www.iresty.com/)
+  * The Past, Present, and Future of OpenResty 2015 ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangyichun.pdf), [Video](https://www.youtube.com/watch?v=vUgTHeXM5m8)) (In Chinese)
+  * Developing OpenResty Framework ([Slides](http://www.slideshare.net/AapoTalvensaari1/developing-openresty-framework-57404012), [Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
+  * Be a Microservice Hero ([Slides](http://www.iresty.com/download/ebook/2015_con/zhangshuai.pdf), [Video](https://www.youtube.com/watch?v=gqRMX8BQD98)) (In Chinese)
 
 ## Demo Applications
 

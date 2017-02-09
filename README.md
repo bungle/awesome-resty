@@ -387,6 +387,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-zip](https://github.com/doujiang24/lua-resty-zip) — ZIP functions(compress/uncompress) for LuaJIT
 * [lua-resty-snappy](https://github.com/bungle/lua-resty-snappy) — LuaJIT FFI bindings for Snappy, a fast compressor/decompressor
+* [lua-resty-brotli](https://github.com/sjnam/lua-resty-brotli) — LuaJIT FFI bindings for Google Brotli
 
 #### Text Formats
 

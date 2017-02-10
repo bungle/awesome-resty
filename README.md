@@ -331,6 +331,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-statsd](https://github.com/mediba-system/lua-resty-statsd) — StatsD client for OpenResty
 * [lua-resty-dogstatsd](https://github.com/mediba-system/lua-resty-dogstatsd) — A client for DogStatsD, an extension of the StatsD metric server for Datadog. Using nginx cosocket API
 * [openresty-statsd](https://github.com/lonelyplanet/openresty-statsd) — A Lua module for OpenResty to send metrics to StatsD
+* [lua-resty-mogilefs](https://github.com/sunkan/lua-resty-mogilefs) — A Lua mogilefs client driver for the ngx_lua based on the cosocket API
 
 #### Testing and Profiling
 

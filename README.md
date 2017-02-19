@@ -252,6 +252,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-macaroons](https://github.com/bungle/lua-resty-macaroons) — LuaJIT FFI Bindings to libmacaroons – Macaroons are flexible authorization credentials that support decentralized delegation, attenuation, and verification
 * [lua-resty-openidc](https://github.com/pingidentity/lua-resty-openidc) — lua-resty-openidc is a library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality
+* [micro-auth](https://github.com/hypebeast/micro-auth) — A microservice that makes adding authentication with Google and Github to your application easy.
 
 #### Cryptography
 

@@ -42,6 +42,8 @@ There are at least three different ways to contribute:
   * [Core Libraries](#core-libraries)
   * [Web Frameworks](#web-frameworks)
   * [Web Development Essentials](#web-development-essentials)
+  * [Routing Libraries](#routing-libraries)
+  * [Request Argments Parsers](#request-argments-parsers)
   * [Middleware and API Tools](#middleware-and-api-tools)
   * [Templating](#templating)
   * [Validation](#validation)
@@ -218,17 +220,24 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) — Lua library for HTTP cookie manipulations for OpenResty/ngx_lua
 * [lua-resty-cors](https://github.com/detailyang/lua-resty-cors) — The Cross-Origin Resource Sharing (CORS) implementation for OpenResty
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) — Session library for OpenResty implementing Secure Cookie Protocol
-* [lua-resty-reqargs](https://github.com/bungle/lua-resty-reqargs) — Helper to Retrieve application/x-www-form-urlencoded, multipart/form-data, and application/json Request Arguments
-* [lua-resty-post](https://github.com/antonheryanto/lua-resty-post) — HTTP Post Utility for OpenResty (File Uploading Helper)
-* [lua-resty-multipart-parser](https://github.com/agentzh/lua-resty-multipart-parser) — Simple multipart data parser for OpenResty / Lua
-* [lua-resty-multipart](https://github.com/thibaultcha/lua-resty-multipart) — Multipart parsing library for OpenResty
 * [lua-resty-woothee](https://github.com/woothee/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
-* [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
-* [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches urls and executes lua functions
 * [lua-resty-mobile](https://github.com/isage/lua-resty-mobile) — This library parses HTTP headers and detects mobile device
 * [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) — JWT (JSON Web Tokens) for The Great OpenResty
 * [neturl](https://github.com/golgote/neturl) — URL and Query string parser, builder, normalizer for Lua
 * [Mio](https://github.com/iresty/Mio) — API statistics/summary and health datas in NGINX based on OpenResty, just like NGINX Plus
+
+#### Routing Libraries
+
+* [lua-resty-route](https://github.com/bungle/lua-resty-route) — A URL routing library for OpenResty supporting multiple route matchers, middleware, and HTTP and WebSockets handlers to mention a few of its features 
+* [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches URLs and executes Lua functions
+* [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
+
+#### Request Argments Parsers
+
+* [lua-resty-reqargs](https://github.com/bungle/lua-resty-reqargs) — Helper to Retrieve application/x-www-form-urlencoded, multipart/form-data, and application/json Request Arguments
+* [lua-resty-post](https://github.com/antonheryanto/lua-resty-post) — HTTP Post Utility for OpenResty (File Uploading Helper)
+* [lua-resty-multipart-parser](https://github.com/agentzh/lua-resty-multipart-parser) — Simple multipart data parser for OpenResty / Lua
+* [lua-resty-multipart](https://github.com/thibaultcha/lua-resty-multipart) — Multipart parsing library for OpenResty
 
 #### Middleware and API Tools
 

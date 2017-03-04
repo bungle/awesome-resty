@@ -163,6 +163,7 @@ To learn more about Nginx Core Modules, please refer [Nginx Documentation](http:
 #### Third-party Nginx Modules
 
 * [ngx_lua_ipc](https://github.com/slact/ngx_lua_ipc) — Interprocess communication for Lua Nginx Module and OpenResty — send named alerts with string data between Nginx worker processes
+* [nchan](https://nchan.io/) ([Github](https://github.com/slact/nchan)) — Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE)
 * [ngx_pagespeed](http://ngxpagespeed.com/) ([Github](https://github.com/pagespeed/ngx_pagespeed)) — Automatic PageSpeed optimization module for Nginx
 * [ModSecurity](https://www.modsecurity.org/) — Open Source Web Application Firewall
 * [NAXSI](https://github.com/nbs-system/naxsi) — NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX; NAXSI means Nginx Anti Xss & Sql Injection

@@ -297,6 +297,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient) — Nonblocking Lua HTTP Client library for aLiLua & ngx_lua
 * [lua-httpcli-resty](https://github.com/mah0x211/lua-httpcli-resty) — Lua HTTP client module for OpenResty
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) — Lua WebSocket implementation for the ngx_lua module
+* [lua-resty-mediador](https://github.com/Mashape/lua-resty-mediador) — Determines address of proxied request and does IP address / CIDR blocks handling (both IPv4 and IPv6)
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) — Utility functions for working with IP addresses in OpenResty
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
 * [lua-resty-dns-client](https://github.com/Mashape/lua-resty-dns-client) — Lua library containing a DNS client, several utilities, and a load-balancer

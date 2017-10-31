@@ -305,7 +305,6 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-checkups](https://github.com/upyun/lua-resty-checkups) — Manage Nginx upstreams in pure ngx_lua
 * [lua-resty-socks5](https://github.com/starius/lua-resty-socks5) — Lua SOCKS5 client for the ngx_lua based on the cosocket API
 * [lua-resty-waf](https://github.com/p0pr0ck5/lua-resty-waf) — High-performance WAF built on the OpenResty stack
-* [lua-resty-waf-rules](https://github.com/tzumby/lua-resty-waf-rules) — ModSecurity CRS rules converted to lua-resty-waf rules
 * [lua-resty-tarpit](https://github.com/p0pr0ck5/lua-resty-tarpit) — OpenResty response time inflation, capture and delay unwanted requests
 * [lua-resty-jsonrpc-batch](https://github.com/mosasiru/lua-resty-jsonrpc-batch) — JSON-RPC 2.0 Batch Request protocol module for OpenResty
 * [lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic) — Lua library for limiting and controlling traffic in OpenResty/ngx_lua

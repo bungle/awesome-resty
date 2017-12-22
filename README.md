@@ -379,6 +379,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Utilities
 
+* [lua-resty-worker-manager](https://github.com/Kong/lua-resty-worker-manager) — Tracks worker processes and nodes starting / restarting / reloading / stopping
 * [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events) — Inter process events for Nginx worker processes
 * [lua-resty-batch](https://github.com/starius/lua-resty-batch) — Merge multiple requests in nginx to a single sub-request
 * [lua-resty-shell](https://github.com/juce/lua-resty-shell) — Tiny non-blocking subprocess / shell library to use with OpenResty application server (using [sockproc](https://github.com/juce/sockproc))

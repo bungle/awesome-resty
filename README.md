@@ -243,7 +243,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Middleware and API Tools
 
-* [Kong](https://getkong.org/) ([GitHub](https://github.com/Mashape/kong)) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
+* [Kong](https://getkong.org/) ([GitHub](https://github.com/Kong/kong)) — KONG: Microservice Management Layer (Secure, Manage & Extend your APIs and Microservices)
 * [LSSO](https://github.com/maiome-development/lsso) — A Lightweight SSO middleware for Nginx + Lua
 * [apigateway](https://github.com/adobe-apiplatform/apigateway) — A Performant API Gateway based on Nginx and OpenResty
 
@@ -297,10 +297,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-httpclient](https://github.com/oneoo/lua-resty-httpclient) — Nonblocking Lua HTTP Client library for aLiLua & ngx_lua
 * [lua-httpcli-resty](https://github.com/mah0x211/lua-httpcli-resty) — Lua HTTP client module for OpenResty
 * [lua-resty-websocket](https://github.com/openresty/lua-resty-websocket) — Lua WebSocket implementation for the ngx_lua module
-* [lua-resty-mediador](https://github.com/Mashape/lua-resty-mediador) — Determines address of proxied request and does IP address / CIDR blocks handling (both IPv4 and IPv6)
+* [lua-resty-mediador](https://github.com/Kong/lua-resty-mediador) — Determines address of proxied request and does IP address / CIDR blocks handling (both IPv4 and IPv6)
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) — Utility functions for working with IP addresses in OpenResty
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
-* [lua-resty-dns-client](https://github.com/Mashape/lua-resty-dns-client) — Lua library containing a DNS client, several utilities, and a load-balancer
+* [lua-resty-dns-client](https://github.com/Kong/lua-resty-dns-client) — Lua library containing a DNS client, several utilities, and a load-balancer
 * [lua-resty-upstream](https://github.com/hamishforbes/lua-resty-upstream) — Upstream connection load balancing and failover module
 * [lua-resty-checkups](https://github.com/upyun/lua-resty-checkups) — Manage Nginx upstreams in pure ngx_lua
 * [lua-resty-socks5](https://github.com/starius/lua-resty-socks5) — Lua SOCKS5 client for the ngx_lua based on the cosocket API
@@ -314,7 +314,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-capnproto](https://github.com/cloudflare/lua-capnproto) — Cap’n Proto is an insanely fast data interchange format and capability-based RPC system
 * [lua-resty-tornera](https://github.com/pinge/lua-resty-tornera) — A traffic replay tool with an easy to use HTTP API for OpenResty / LuaJIT
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) — Library to interface with the consul HTTP API from ngx_lua
-
+* [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) — Healthcheck library for OpenResty to validate upstream service status
 
 #### Databases and Storages
 
@@ -376,7 +376,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Utilities
 
-* [lua-resty-worker-events](https://github.com/Mashape/lua-resty-worker-events) — Inter process events for Nginx worker processes
+* [lua-resty-worker-events](https://github.com/Kong/lua-resty-worker-events) — Inter process events for Nginx worker processes
 * [lua-resty-batch](https://github.com/starius/lua-resty-batch) — Merge multiple requests in nginx to a single sub-request
 * [lua-resty-shell](https://github.com/juce/lua-resty-shell) — Tiny non-blocking subprocess / shell library to use with OpenResty application server (using [sockproc](https://github.com/juce/sockproc))
 * [lua-resty-exec](https://github.com/jprjr/lua-resty-exec) — Non-blocking, non-shell-spawning, streaming and non-streaming subprocess library (using [sockexec](https://github.com/jprjr/sockexec))

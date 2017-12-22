@@ -58,6 +58,7 @@ There are at least three different ways to contribute:
   * [Date and Time](#date-and-time)
   * [Compression](#compression)
   * [Text Formats](#text-formats)
+  * [Binary Formats](#binary-formats)
   * [Document Formats](#document-formats)
   * [Image Formats](#image-formats)
   * [Localization](#localization)
@@ -423,6 +424,11 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-unistring](https://github.com/bungle/lua-resty-unistring) — LuaJIT FFI bindings for GNU libunistring - A Unicode string manipulation lIbrary (https://www.gnu.org/software/libunistring/)
 * [lua-resty-htmlentities](https://github.com/detailyang/lua-resty-htmlentities) — Backport the entities to LuaJIT with the FFI binding as the entities to UTF-8 decoder
 * [lua-resty-jsdecode](https://github.com/detailyang/lua-resty-jsdecode) — Javascript Escape Notation decoding to UTF-8 bytes
+
+#### Binary Formats
+
+* [lua-resty-msgpack](https://github.com/chronolaw/lua-resty-msgpack) — Lua Message Pack for OpenResty
+* [luajit-msgpack-pure](https://github.com/catwell/luajit-msgpack-pure) — MessagePack for LuaJIT (using FFI, no bindings, V4 API)
 
 #### Document Formats
 

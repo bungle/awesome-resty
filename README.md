@@ -332,6 +332,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-redis-connector](https://github.com/pintsized/lua-resty-redis-connector) — Connection utilities for lua-resty-redis, making it easy and reliable to connect to Redis hosts, either directly or via Redis Sentinel
 * [resty-redis-cluster](https://github.com/steve0511/resty-redis-cluster) — OpenResty Redis cluster-aware client based on resty-redis-cluster
 * [lua-resty-redis-cluster](https://github.com/cuiweixie/lua-resty-redis-cluster) — OpenResty Redis Cluster Client
+* [lua-resty-redis-util](https://github.com/anjia0532/lua-resty-redis-util) — Based on `lua-resty-redis` and makes it easier to operate the Redis
 * [lua-cassandra](https://github.com/thibaultCha/lua-cassandra) - Pure Lua, feature-rich, and cluster-aware Cassandra client
 * [lua-resty-cassandra](https://github.com/jbochi/lua-resty-cassandra) — Pure Lua Cassandra client using CQL binary protocol
 * [lua-resty-bloomd](https://github.com/jie123108/lua-resty-bloomd) — A client library based on ngx_lua to interface with [bloomd servers](https://github.com/armon/bloomd)

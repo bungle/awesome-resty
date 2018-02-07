@@ -216,7 +216,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [zLua](https://github.com/mrxx/zLua) — A Codeigniter like Lua framework based on OpenResty
 * [lua-resty-stack](https://github.com/antonheryanto/lua-resty-stack) — OpenResty Simple Application Stack
 * [dodolu](https://github.com/zhangf911/dodolu) — A lightweight web framework based on OpenResty
-* [Octopus](https://github.com/cyberz-eu/octopus) ([Github](https://github.com/cyberz-eu/octopus)) — The Lua Web Platform
+* [Octopus](https://github.com/cyberz-eu/octopus) — The Lua Web Platform
 * [vicky](https://github.com/RocksonZeta/vicky) — A restful framework for openresty,inspired by expressjs and koa.
 
 #### Web Development Essentials
@@ -394,8 +394,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-postal](https://github.com/bungle/lua-resty-postal) — LuaJIT FFI Bindings to libpostal – a fast statistical parser/normalizer for street addresses around the world.
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer
 * [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket) - Automatic LuaSocket/cosockets compatibility module
-* [Inspect](https://github.com/kikito/inspect.lua) ([Github](https://github.com/kikito/inspect.lua)) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
-* [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) ([Github](https://github.com/lilien1010/lua-resty-maxminddb)) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
+* [Inspect](https://github.com/kikito/inspect.lua) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
+* [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
 * [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 
 #### Date and Time

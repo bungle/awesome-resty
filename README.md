@@ -396,6 +396,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket) - Automatic LuaSocket/cosockets compatibility module
 * [Inspect](https://github.com/kikito/inspect.lua) ([Github](https://github.com/kikito/inspect.lua)) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
 * [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) ([Github](https://github.com/lilien1010/lua-resty-maxminddb)) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
+* [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 
 #### Date and Time
 

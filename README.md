@@ -388,7 +388,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-exec](https://github.com/jprjr/lua-resty-exec) — Non-blocking, non-shell-spawning, streaming and non-streaming subprocess library (using [sockexec](https://github.com/jprjr/sockexec))
 * [lua-resty-repl](https://github.com/saks/lua-resty-repl) — Interactive console (REPL) for OpenResty and LuaJIT code
 * [lua-resty-fileinfo](https://github.com/bungle/lua-resty-fileinfo) — LuaJIT FFI bindings to libmagic, magic number recognition library - tries to determine file types
-* [lua-resty-mime-sniff](https://github.com/spacewander/lua-resty-mime-sniff) - Sniff the real MIME type of given data
+* [lua-resty-mime-sniff](https://github.com/spacewander/lua-resty-mime-sniff) — Sniff the real MIME type of given data
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) - LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
 * [lua-resty-jit-uuid](https://github.com/thibaultCha/lua-resty-jit-uuid) — A pure LuaJIT (no dependencies) uuid generator tuned for performance

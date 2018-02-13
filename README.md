@@ -389,13 +389,13 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-repl](https://github.com/saks/lua-resty-repl) — Interactive console (REPL) for OpenResty and LuaJIT code
 * [lua-resty-fileinfo](https://github.com/bungle/lua-resty-fileinfo) — LuaJIT FFI bindings to libmagic, magic number recognition library - tries to determine file types
 * [lua-resty-mime-sniff](https://github.com/spacewander/lua-resty-mime-sniff) — Sniff the real MIME type of given data
-* [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) - LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
+* [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) — LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
 * [lua-resty-jit-uuid](https://github.com/thibaultCha/lua-resty-jit-uuid) — A pure LuaJIT (no dependencies) uuid generator tuned for performance
 * [lua-resty-tsort](https://github.com/bungle/lua-resty-tsort) — Performs a topological sort on input data
 * [lua-resty-postal](https://github.com/bungle/lua-resty-postal) — LuaJIT FFI Bindings to libpostal – a fast statistical parser/normalizer for street addresses around the world.
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer
-* [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket) - Automatic LuaSocket/cosockets compatibility module
+* [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket) — Automatic LuaSocket/cosockets compatibility module
 * [Inspect](https://github.com/kikito/inspect.lua) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
 * [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
 * [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)

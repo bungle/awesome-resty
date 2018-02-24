@@ -345,8 +345,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-mongo](https://github.com/nightsailer/lua-resty-mongo) — Lua mongodb client driver for the ngx_lua based on the cosocket API
 * [lua-mongo](https://github.com/boyxuper/lua-mongo) — A simple Lua Mongo driver (a fork made to work with co-sockets)
 * [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) — OpenResty client for InfluxDB
-* [lua-resty-kyototycoon](https://github.com/cloudflare/lua-resty-kyototycoon) — Lua client driver for KyotoTycoon using its native wire protocol (OpenResty/ngx_lua)
-* [lua-resty-kyototycoon](https://github.com/sjnam/lua-resty-kyototycoon) — Lua client driver for KyotoTycoon using its binary protocol
+* [lua-resty-kyototycoon](https://github.com/cloudflare/lua-resty-kyototycoon) by [@cloudflare](https://github.com/cloudflare/) — Lua client driver for KyotoTycoon using its native wire protocol (OpenResty/ngx_lua)
+* [lua-resty-kyototycoon](https://github.com/sjnam/lua-resty-kyototycoon) by [@sjnam](https://github.com/sjnam/) — Lua client driver for KyotoTycoon using its binary protocol
 * [lua-resty-tarantool](https://github.com/perusio/lua-resty-tarantool) — Library for working with Tarantool from Nginx with the embedded Lua module or with OpeRresty
 * [lua-nginx-tarantool](https://github.com/ziontab/lua-nginx-tarantool) — A driver for a NoSQL database in a Lua script Tarantool build on fast nginx cosockets
 * [lua-resty-ssdb](https://github.com/LazyZhu/lua-resty-ssdb) — Lua ssdb client driver for the ngx_lua based on the cosocket API, SSDB is a leveldb server
@@ -400,8 +400,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer
 * [lua-resty-socket](https://github.com/thibaultcha/lua-resty-socket) — Automatic LuaSocket/cosockets compatibility module
 * [Inspect](https://github.com/kikito/inspect.lua) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
-* [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
-* [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
+* [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) by [@lilien1010](https://github.com/lilien1010) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
+* [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 
 #### Date and Time
 
@@ -473,7 +473,6 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 #### Logging
 
 * [lua-resty-logger-socket](https://github.com/cloudflare/lua-resty-logger-socket) — Raw-socket-based Logger Library for Nginx (based on ngx_lua)
-* [raven-lua](https://github.com/cloudflare/raven-lua) — A small Lua interface to Sentry
 * [lua-nginx-logging](https://github.com/Lumate/lua-nginx-logging) — Logging utilities for Nginx written in Lua
 * [lua-resty-logger](https://github.com/kedyyan/lua-resty-logger) — Custom Logger Library for OpenResty
 * [lua-resty-rfc5424](https://github.com/detailyang/lua-resty-rfc5424) — An implementation of the RFC5424(syslog) in the OpenResty
@@ -505,7 +504,6 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
-* [lua-resty-newrelic](https://github.com/saks/lua-resty-newrelic) — New Relic bindings for a OpenResty / Lua
 * [lua-mailgun](https://github.com/leafo/lua-mailgun) — A Lua library for sending emails and interacting with the Mailgun API. Compatible with OpenResty via Lapis HTTP API, or any other Lua script via LuaSocket.
 * [lua-payments](https://github.com/leafo/lua-payments) — Bindings to various payment provider APIs for use in Lua (with OpenResty or anything that supports LuaSocket)
 

@@ -453,6 +453,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [magick](https://github.com/leafo/magick) — Lua Bindings to ImageMagick for LuaJIT using FFI
 * [giflib](https://github.com/leafo/giflib) — Lua bindings to GIFLIB for LuaJIT using FFI
 * [fi-luajit](https://github.com/nyfair/fi-luajit) — A LuaJIT interface to FreeImage
+* [lua-vips](https://github.com/jcupitt/lua-vips) — LuaJIT binding for libvips 
 
 #### Localization
 

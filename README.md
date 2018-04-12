@@ -310,6 +310,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache) — Lua-land LRU Cache based on LuaJIT FFI
 * [lua-resty-tlc](https://github.com/hamishforbes/lua-resty-tlc) — Two Layer Cache implementation using lua-resty-lrucache and shared dictionaries.
+* [lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache) - Modern and flexible multi-level caching using lua-resty-lrucache, shared dictionaries, and cache stampede protection.
 * [Ledge](https://github.com/pintsized/ledge) — A Lua application for OpenResty, providing HTTP cache functionality for Nginx, using Redis as a cache / metadata store
 * [lua-resty-cache](https://github.com/lloydzhou/lua-resty-cache) — HTTP Cache to Redis, can serve stale response, and using `lua-resty-lock` only allow one request to populate a new cache
 

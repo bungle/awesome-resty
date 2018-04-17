@@ -320,6 +320,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-tornera](https://github.com/pinge/lua-resty-tornera) — A traffic replay tool with an easy to use HTTP API for OpenResty / LuaJIT
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) — Library to interface with the consul HTTP API from ngx_lua
 * [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) — Healthcheck library for OpenResty to validate upstream service status
+* [lua-resty-balancer](https://github.com/openresty/lua-resty-balancer) — A generic consistent hash implementation for OpenResty
 
 #### Databases and Storages
 

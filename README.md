@@ -397,6 +397,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) — LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
 * [lua-resty-jit-uuid](https://github.com/thibaultCha/lua-resty-jit-uuid) — A pure LuaJIT (no dependencies) uuid generator tuned for performance
+* [lua-resty-unique-id](https://github.com/hqzxzb/lua-resty-unique-id) — 
+Lua library for generating a unique ID for OpenResty
 * [lua-resty-tsort](https://github.com/bungle/lua-resty-tsort) — Performs a topological sort on input data
 * [lua-resty-postal](https://github.com/bungle/lua-resty-postal) — LuaJIT FFI Bindings to libpostal – a fast statistical parser/normalizer for street addresses around the world.
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer

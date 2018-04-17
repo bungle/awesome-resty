@@ -221,6 +221,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Web Development Essentials
 
+* [lua-resty-url](https://github.com/3scale/lua-resty-url) — URL parser for OpenResty
 * [lua-resty-cookie](https://github.com/cloudflare/lua-resty-cookie) — Lua library for HTTP cookie manipulations for OpenResty/ngx_lua
 * [lua-resty-cors](https://github.com/detailyang/lua-resty-cors) — The Cross-Origin Resource Sharing (CORS) implementation for OpenResty
 * [lua-resty-session](https://github.com/bungle/lua-resty-session) — Session library for OpenResty implementing Secure Cookie Protocol

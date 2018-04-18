@@ -323,6 +323,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) — Healthcheck library for OpenResty to validate upstream service status
 * [lua-resty-balancer](https://github.com/openresty/lua-resty-balancer) — A generic consistent hash implementation for OpenResty
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) — SNI Proxy based on stream-lua-nginx-module
+* [lua-resty-multiplexer](https://github.com/fffonion/lua-resty-multiplexer) — Transparent port service multiplexer for stream subsystem
 
 #### Databases and Storages
 

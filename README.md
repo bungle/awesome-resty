@@ -322,6 +322,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-consul](https://github.com/hamishforbes/lua-resty-consul) — Library to interface with the consul HTTP API from ngx_lua
 * [lua-resty-healthcheck](https://github.com/Kong/lua-resty-healthcheck) — Healthcheck library for OpenResty to validate upstream service status
 * [lua-resty-balancer](https://github.com/openresty/lua-resty-balancer) — A generic consistent hash implementation for OpenResty
+* [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) — SNI Proxy based on stream-lua-nginx-module
 
 #### Databases and Storages
 

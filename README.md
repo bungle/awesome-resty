@@ -432,7 +432,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [lua-resty-hoedown](https://github.com/bungle/lua-resty-hoedown) — LuaJIT FFI bindings to Hoedown, a standards compliant, fast, secure markdown processing library in C
 * [lua-gumbo](https://github.com/craigbarnes/lua-gumbo) — Lua bindings for the Gumbo HTML5 parsing library, with a set of DOM APIs implemented in pure Lua
-* [lua-resty-sass](https://github.com/bungle/lua-resty-sass) — LuaJIT FFI bindings for libsass - A C/C++ implementation of a Sass compiler (http://libsass.org/).
+* [lua-resty-sass](https://github.com/bungle/lua-resty-sass) — LuaJIT FFI bindings for libsass - A C/C++ implementation of a Sass compiler (http://libsass.org/)
 * [lua-resty-lanli](https://github.com/bungle/lua-resty-lanli) — LuaJIT FFI Bindings to Lanli HTML Sanitizer Library
 * [lua-resty-ini](https://github.com/doujiang24/lua-resty-ini) —  Lua INI-file parser
 * [lua-re2](https://github.com/cloudflare/lua-re2) — C and Lua wrapper for RE2 regular expression library.
@@ -440,6 +440,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-json](https://github.com/cloudflare/lua-resty-json) — JSON library for Lua and C (decoder only).
 * [lua-resty-libcjson](https://github.com/bungle/lua-resty-libcjson) — LuaJIT FFI-based cJSON library for OpenResty
 * [lua-resty-prettycjson](https://github.com/bungle/lua-resty-prettycjson) — Lua cJSON Pretty Formatter
+* [lua-resty-jsonschema](https://github.com/tianchaijz/lua-resty-jsonschema) — https://github.com/tianchaijz/lua-resty-jsonschema
 * [lua-resty-utf8rewind](https://github.com/bungle/lua-resty-utf8rewind) — LuaJIT FFI bindings for utf8rewind - a system library written in C designed to extend the default string handling functions with support for UTF-8 encoded text
 * [lua-resty-unistring](https://github.com/bungle/lua-resty-unistring) — LuaJIT FFI bindings for GNU libunistring - A Unicode string manipulation lIbrary (https://www.gnu.org/software/libunistring/)
 * [lua-resty-htmlentities](https://github.com/detailyang/lua-resty-htmlentities) — Backport the entities to LuaJIT with the FFI binding as the entities to UTF-8 decoder

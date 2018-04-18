@@ -326,6 +326,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Databases and Storages
 
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) — Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
+* [lua-resty-mysql-connector](https://github.com/myselfghost/lua-resty-mysql-connector) — 
+Connection utilities for lua-resty-mysql, support for read and write separation，support for instantiating different databases
 * [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) — Nonblocking Lua PostgreSQL driver library for ngx_lua
 * [pgmoon](https://github.com/leafo/pgmoon) — A pure Lua Postgres driver for use in OpenResy & more
 * [lua-resty-couchbase](https://github.com/ZigzagAK/lua-resty-couchbase) — OpenResty CouchBase module

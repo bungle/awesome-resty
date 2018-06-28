@@ -282,6 +282,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-jump-consistent-hash](https://github.com/ruoshan/lua-resty-jump-consistent-hash) — Jump Consistent Hash for LuaJIT
 * [lua-resty-letsencrypt](https://github.com/torhve/lua-resty-letsencrypt) — Automatically fetch and renew TLS certificates on the fly using LetsEncrypt CA.
 * [lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) — On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt
+* [lua-resty-peter_sslers](https://github.com/aptise/lua-resty-peter_sslers) — Automaticly loads/cache SSL certificates based on SNI from caches or backend json servers
 * [lua-resty-murmurhash2](https://github.com/bungle/lua-resty-murmurhash2) — LuaJIT MurmurHash 2 bindings to Nginx / OpenResty murmurhash2 implementation
 * [lua-resty-hmac](https://github.com/jamesmarlowe/lua-resty-hmac) — Lua driver for making and receiving hmac signed requests
 * [lua-resty-scrypt](https://github.com/bungle/lua-resty-scrypt) — LuaJIT FFI-based scrypt library for OpenResty

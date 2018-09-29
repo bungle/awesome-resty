@@ -327,6 +327,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-balancer](https://github.com/openresty/lua-resty-balancer) — A generic consistent hash implementation for OpenResty
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) — SNI Proxy based on stream-lua-nginx-module
 * [lua-resty-multiplexer](https://github.com/fffonion/lua-resty-multiplexer) — Transparent port service multiplexer for stream subsystem
+* [lua-resty-http2](https://github.com/tokers/lua-resty-http2) — The HTTP/2 Protocol (Client Side) Implementation for OpenResty
 
 #### Databases and Storages
 

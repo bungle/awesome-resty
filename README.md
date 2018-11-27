@@ -294,6 +294,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-fastpbkdf2](https://github.com/mynameiscfed/lua-resty-fastpbkdf2) — Lua bindings to fastpbkdf2
 * [lua-argon2-ffi](https://github.com/thibaultCha/lua-argon2-ffi) — LuaJIT FFI binding for the Argon2 password hashing algorithm
 * [lua-resty-des](https://github.com/lilien1010/lua-resty-des) — Lua interface to make DES ECB encryption
+* [WXBizMsgCrypt](https://github.com/TheNorthMemory/WXBizMsgCrypt) — Lua version of the WeChat Message Cryptography
 
 #### Networking
 

@@ -356,6 +356,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-mongo](https://github.com/nightsailer/lua-resty-mongo) — Lua mongodb client driver for the ngx_lua based on the cosocket API
 * [lua-mongo](https://github.com/boyxuper/lua-mongo) — A simple Lua Mongo driver (a fork made to work with co-sockets)
 * [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) — OpenResty client for InfluxDB
+* [lua-telegraf](https://github.com/lblasc/lua-telegraf) — Lua/OpenResty client for Telegraf/InfluxDB
 * [lua-resty-kyototycoon](https://github.com/cloudflare/lua-resty-kyototycoon) by [@cloudflare](https://github.com/cloudflare/) — Lua client driver for KyotoTycoon using its native wire protocol (OpenResty/ngx_lua)
 * [lua-resty-kyototycoon](https://github.com/sjnam/lua-resty-kyototycoon) by [@sjnam](https://github.com/sjnam/) — Lua client driver for KyotoTycoon using its binary protocol
 * [lua-resty-tarantool](https://github.com/perusio/lua-resty-tarantool) — Library for working with Tarantool from Nginx with the embedded Lua module or with OpeRresty

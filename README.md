@@ -233,9 +233,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Routing Libraries
 
-* [lua-resty-route](https://github.com/bungle/lua-resty-route) — A URL routing library for OpenResty supporting multiple route matchers, middleware, and HTTP and WebSockets handlers to mention a few of its features 
+* [lua-resty-route](https://github.com/bungle/lua-resty-route) — A URL routing library for OpenResty supporting multiple route matchers, middleware, and HTTP and WebSockets handlers to mention a few of its features
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches URLs and executes Lua functions
 * [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
+* [lua-resty-libr3](https://github.com/iresty/lua-resty-libr3) — High-performance path dispatching library base on [libr3](https://github.com/c9s/r3) for OpenResty
 
 #### Request Argments Parsers
 
@@ -252,6 +253,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [3scale APIcast](https://github.com/3scale/apicast) — API gateway module of Red Hat 3scale API Management
 * [Sumory Orange](https://github.com/sumory/orange) — API Gateway
 * [Monarch API Gateway](https://github.com/monarchapis/gateway-openresty)  — OpenResty-based API Gateway
+* [APISIX](https://github.com/iresty/apisix)  — APISIX is a Cloud-Native Microservices API Gateway
 
 #### Templating
 
@@ -333,7 +335,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Databases and Storages
 
 * [lua-resty-mysql](https://github.com/openresty/lua-resty-mysql) — Non-blocking Lua MySQL client driver for ngx_lua based on the cosocket API
-* [lua-resty-mysql-connector](https://github.com/myselfghost/lua-resty-mysql-connector) — 
+* [lua-resty-mysql-connector](https://github.com/myselfghost/lua-resty-mysql-connector) —
 Connection utilities for lua-resty-mysql, support for read and write separation，support for instantiating different databases
 * [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) — Nonblocking Lua PostgreSQL driver library for ngx_lua
 * [pgmoon](https://github.com/leafo/pgmoon) — A pure Lua Postgres driver for use in OpenResy & more
@@ -368,6 +370,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-dogstatsd](https://github.com/mediba-system/lua-resty-dogstatsd) — A client for DogStatsD, an extension of the StatsD metric server for Datadog. Using nginx cosocket API
 * [openresty-statsd](https://github.com/lonelyplanet/openresty-statsd) — A Lua module for OpenResty to send metrics to StatsD
 * [lua-resty-mogilefs](https://github.com/sunkan/lua-resty-mogilefs) — A Lua mogilefs client driver for the ngx_lua based on the cosocket API
+* [lua-resty-etcd](https://github.com/iresty/lua-resty-etcd) — Nonblocking Lua etcd driver library for OpenResty
 
 #### Testing and Profiling
 
@@ -408,7 +411,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) — LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
 * [lua-resty-jit-uuid](https://github.com/thibaultCha/lua-resty-jit-uuid) — A pure LuaJIT (no dependencies) uuid generator tuned for performance
-* [lua-resty-unique-id](https://github.com/hqzxzb/lua-resty-unique-id) — 
+* [lua-resty-unique-id](https://github.com/hqzxzb/lua-resty-unique-id) —
 Lua library for generating a unique ID for OpenResty
 * [lua-resty-tsort](https://github.com/bungle/lua-resty-tsort) — Performs a topological sort on input data
 * [lua-resty-postal](https://github.com/bungle/lua-resty-postal) — LuaJIT FFI Bindings to libpostal – a fast statistical parser/normalizer for street addresses around the world.
@@ -470,7 +473,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [magick](https://github.com/leafo/magick) — Lua Bindings to ImageMagick for LuaJIT using FFI
 * [giflib](https://github.com/leafo/giflib) — Lua bindings to GIFLIB for LuaJIT using FFI
 * [fi-luajit](https://github.com/nyfair/fi-luajit) — A LuaJIT interface to FreeImage
-* [lua-vips](https://github.com/jcupitt/lua-vips) — LuaJIT binding for libvips 
+* [lua-vips](https://github.com/jcupitt/lua-vips) — LuaJIT binding for libvips
 
 #### Localization
 

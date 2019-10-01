@@ -67,6 +67,7 @@ There are at least three different ways to contribute:
   * [Logging](#logging)
   * [Functional Programming](#functional-programming)
   * [Web APIs](#web-apis)
+  * [Security](#security)
   * [Other Sources for Libraries](#other-sources-for-libraries)
 * [Books and Tutorials](#books-and-tutorials)
   * [Books](#books)
@@ -529,6 +530,10 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
 * [lua-mailgun](https://github.com/leafo/lua-mailgun) — A Lua library for sending emails and interacting with the Mailgun API. Compatible with OpenResty via Lapis HTTP API, or any other Lua script via LuaSocket.
 * [lua-payments](https://github.com/leafo/lua-payments) — Bindings to various payment provider APIs for use in Lua (with OpenResty or anything that supports LuaSocket)
+
+#### Security
+
+* [lua-resty-ddos](https://github.com/satrobit/lua-resty-ddos) — This library uses Cookie Validation to detect bots from real users
 
 #### Other Sources for Libraries
 

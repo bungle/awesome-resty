@@ -292,6 +292,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 #### Cryptography
 
 * [lua-resty-string](https://github.com/openresty/lua-resty-string) — String utilities and common hash functions for ngx_lua and LuaJIT
+* [lua-resty-openssl](https://github.com/fffonion/lua-resty-openssl) — FFI-based OpenSSL binding for LuaJIT
 * [lua-resty-nettle](https://github.com/bungle/lua-resty-nettle) — LuaJIT FFI bindings for Nettle (a low-level cryptographic library)
 * [lua-resty-chash](https://github.com/agentzh/lua-resty-chash) — A generic consistent hash implementation for OpenResty/Lua
 * [lua-resty-jump-consistent-hash](https://github.com/ruoshan/lua-resty-jump-consistent-hash) — Jump Consistent Hash for LuaJIT

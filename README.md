@@ -536,6 +536,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 #### Security
 
 * [lua-resty-ddos](https://github.com/satrobit/lua-resty-ddos) — This library uses Cookie Validation to detect bots from real users
+* [Nginx-Lua-Anti-DDoS](https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS)) — A Anti-DDoS script to protect Nginx web servers using Lua with a Javascript based authentication puzzle inspired by Cloudflare
 
 #### Other Sources for Libraries
 

@@ -43,6 +43,7 @@ There are at least three different ways to contribute:
   * [Web Frameworks](#web-frameworks)
   * [Web Development Essentials](#web-development-essentials)
   * [Routing Libraries](#routing-libraries)
+  * [Traffic Management](#traffic-management)
   * [Request Argments Parsers](#request-argments-parsers)
   * [Middleware and API Tools](#middleware-and-api-tools)
   * [Templating](#templating)
@@ -239,6 +240,10 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches URLs and executes Lua functions
 * [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
 * [lua-resty-libr3](https://github.com/iresty/lua-resty-libr3) — High-performance path dispatching library base on [libr3](https://github.com/c9s/r3) for OpenResty
+
+#### Traffic Management
+
+* [lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) — Limit the request processing rate between multiple NGINX instances backed by Redis.
 
 #### Request Argments Parsers
 

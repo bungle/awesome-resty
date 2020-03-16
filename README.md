@@ -439,6 +439,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) by [@lilien1010](https://github.com/lilien1010) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
 * [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 * [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) — Lua / OpenResty implementation based on FFI for [rax](https://github.com/antirez/rax)
+* [lua-resty-counter](https://github.com/Kong/lua-resty-counter) — Lock-free counter for OpenResty
 
 #### Date and Time
 

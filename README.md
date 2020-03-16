@@ -165,6 +165,7 @@ To learn more about Nginx Core Modules, please refer [Nginx Documentation](http:
 
 #### Third-party Nginx Modules
 
+* [lua-var-nginx-module](https://github.com/api7/lua-var-nginx-module) — Fetchs Nginx variable by Luajit with FFI way which is fast and cheap
 * [ngx_lua_ipc](https://github.com/slact/ngx_lua_ipc) — Interprocess communication for Lua Nginx Module and OpenResty — send named alerts with string data between Nginx worker processes
 * [nchan](https://nchan.io/) ([Github](https://github.com/slact/nchan)) — Fast, horizontally scalable, multiprocess pub/sub queuing server and proxy for HTTP, long-polling, Websockets and EventSource (SSE)
 * [ngx_pagespeed](http://ngxpagespeed.com/) ([Github](https://github.com/pagespeed/ngx_pagespeed)) — Automatic PageSpeed optimization module for Nginx

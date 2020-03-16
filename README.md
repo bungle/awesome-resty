@@ -427,8 +427,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-taglib](https://github.com/bungle/lua-resty-taglib) — LuaJIT FFI bindings for TagLib - An Audio Meta-Data Library
 * [lua-resty-uuid](https://github.com/bungle/lua-resty-uuid) — LuaJIT FFI bindings for libuuid, a DCE compatible Universally Unique Identifier library
 * [lua-resty-jit-uuid](https://github.com/thibaultCha/lua-resty-jit-uuid) — A pure LuaJIT (no dependencies) uuid generator tuned for performance
-* [lua-resty-unique-id](https://github.com/hqzxzb/lua-resty-unique-id) —
-Lua library for generating a unique ID for OpenResty
+* [lua-resty-unique-id](https://github.com/hqzxzb/lua-resty-unique-id) — Lua library for generating a unique ID for OpenResty
 * [lua-resty-tsort](https://github.com/bungle/lua-resty-tsort) — Performs a topological sort on input data
 * [lua-resty-postal](https://github.com/bungle/lua-resty-postal) — LuaJIT FFI Bindings to libpostal – a fast statistical parser/normalizer for street addresses around the world.
 * [lua-resty-libinjection](https://github.com/p0pr0ck5/lua-resty-libinjection) — LuaJIT FFI bindings for libinjection, a SQL/SQLi tokenizer and analyzer
@@ -436,6 +435,7 @@ Lua library for generating a unique ID for OpenResty
 * [Inspect](https://github.com/kikito/inspect.lua) — Inspect is a library that transforms any Lua value into a human-readable representation. It is especially useful for debugging errors in tables.
 * [lua-resty-maxminddb](https://github.com/lilien1010/lua-resty-maxminddb) by [@lilien1010](https://github.com/lilien1010) — LuaJIT FFI Bindings to official libmaxminddb, to get ip location with ip database offered by maxmind
 * [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
+* [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) — Lua / OpenResty implementation based on FFI for [rax](https://github.com/antirez/rax)
 
 #### Date and Time
 

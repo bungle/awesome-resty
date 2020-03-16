@@ -197,6 +197,9 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-cjson](https://github.com/openresty/lua-cjson) — Lua cJSON is a fast JSON encoding / parsing module for Lua
 * [lua-resty-shdict-simple](https://github.com/openresty/lua-resty-shdict-simple) — Simple applicaton-oriented interface to the OpenResty shared dictionary API
 * [lua-resty-memcached-shdict](https://github.com/openresty/lua-resty-memcached-shdict) — Powerful memcached client with a shdict caching layer and many other features
+* [lua-resty-signal](https://github.com/openresty/lua-resty-signal) — Lua library for killing or sending signals to Linux processes
+* [lua-tablepool](https://github.com/openresty/lua-tablepool) — Lua table recycling pools for LuaJIT
+* [lua-resty-shell](https://github.com/openresty/lua-resty-shell) — Lua module for nonblocking system shell command executions
 
 #### Web Frameworks
 

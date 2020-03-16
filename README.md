@@ -264,7 +264,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [3scale APIcast](https://github.com/3scale/apicast) — API gateway module of Red Hat 3scale API Management
 * [Sumory Orange](https://github.com/sumory/orange) — API Gateway
 * [Monarch API Gateway](https://github.com/monarchapis/gateway-openresty)  — OpenResty-based API Gateway
-* [APISIX](https://github.com/iresty/apisix)  — APISIX is a Cloud-Native Microservices API Gateway
+* [APISIX](https://github.com/iresty/apisix) — APISIX is a Cloud-Native Microservices API Gateway
+* [lua-resty-grpc-gateway](https://github.com/ysugimoto/lua-resty-grpc-gateway) — Provides request transformation between REST <-> gRPC with Openresty
 
 #### Templating
 

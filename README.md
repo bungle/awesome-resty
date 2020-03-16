@@ -270,6 +270,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-template](https://github.com/bungle/lua-resty-template) — A Compiling (HTML) templating engine for Lua and OpenResty
 * [lemplate](https://github.com/openresty/lemplate) — OpenResty/Lua template framework implementing Perl's TT2 templating language
+* [lua-resty-aries](https://github.com/DoubleSpout/lua-resty-aries) — OpenResty and Lua multi-function template, it can correct show your error line
 * [etlua](https://github.com/leafo/etlua) — Embedded Lua templates
 * [liquid-lua](https://github.com/chenxianyu2015/liquid-lua) — A Lua implementation of Liquid for OpenResty platform
 * [lua-resty-tmpl](https://github.com/lloydzhou/lua-resty-tmpl) — A simple template engine for Lua and OpenResty, derived from [lua-template](https://github.com/dannote/lua-template).

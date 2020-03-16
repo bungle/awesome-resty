@@ -385,6 +385,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-dogstatsd](https://github.com/mediba-system/lua-resty-dogstatsd) — A client for DogStatsD, an extension of the StatsD metric server for Datadog. Using nginx cosocket API
 * [openresty-statsd](https://github.com/lonelyplanet/openresty-statsd) — A Lua module for OpenResty to send metrics to StatsD
 * [lua-resty-smtp](https://github.com/duhoobo/lua-resty-smtp) — A bridge between HTTP and SMTP
+* [lua-resty-mail](https://github.com/GUI/lua-resty-mail) — A high-level, easy to use, and non-blocking email and SMTP library for OpenResty
 * [lua-resty-mogilefs](https://github.com/sunkan/lua-resty-mogilefs) — A Lua mogilefs client driver for the ngx_lua based on the cosocket API
 * [lua-resty-etcd](https://github.com/api7/lua-resty-etcd) — Nonblocking Lua etcd driver library for OpenResty
 * [lua-shdict-nginx-module](https://github.com/rainingmaster/lua-shdict-nginx-module) — An upgraded version of [ngx.shared.DICT](https://github.com/openresty/lua-nginx-module#ngxshareddict), capable of sharing data between `stream` and `http` modules

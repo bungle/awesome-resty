@@ -315,6 +315,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-iputils](https://github.com/hamishforbes/lua-resty-iputils) — Utility functions for working with IP addresses in OpenResty
 * [lua-resty-readurl](https://github.com/jamesmarlowe/lua-resty-readurl) — Lua library for capturing urls, decoding, and logging results
 * [lua-resty-dns-client](https://github.com/Kong/lua-resty-dns-client) — Lua library containing a DNS client, several utilities, and a load-balancer
+* [lua-resty-dns-server](https://github.com/vislee/lua-resty-dns-server) — Lua DNS server driver for the OpenResty
 * [lua-resty-upstream](https://github.com/hamishforbes/lua-resty-upstream) — Upstream connection load balancing and failover module
 * [lua-resty-checkups](https://github.com/upyun/lua-resty-checkups) — Manage Nginx upstreams in pure ngx_lua
 * [lua-resty-socks5](https://github.com/starius/lua-resty-socks5) — Lua SOCKS5 client for the ngx_lua based on the cosocket API

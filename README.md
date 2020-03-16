@@ -296,6 +296,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-nettle](https://github.com/bungle/lua-resty-nettle) — LuaJIT FFI bindings for Nettle (a low-level cryptographic library)
 * [lua-resty-chash](https://github.com/agentzh/lua-resty-chash) — A generic consistent hash implementation for OpenResty/Lua
 * [lua-resty-jump-consistent-hash](https://github.com/ruoshan/lua-resty-jump-consistent-hash) — Jump Consistent Hash for LuaJIT
+* [lua-resty-acme](https://github.com/fffonion/lua-resty-acme) — Automatic Let's Encrypt certificate serving and Lua implementation of ACMEv2 procotol
 * [lua-resty-letsencrypt](https://github.com/torhve/lua-resty-letsencrypt) — Automatically fetch and renew TLS certificates on the fly using LetsEncrypt CA.
 * [lua-resty-auto-ssl](https://github.com/GUI/lua-resty-auto-ssl) — On the fly (and free) SSL registration and renewal inside OpenResty/nginx with Let's Encrypt
 * [lua-resty-peter_sslers](https://github.com/aptise/lua-resty-peter_sslers) — Automaticly loads/cache SSL certificates based on SNI from caches or backend json servers

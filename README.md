@@ -513,6 +513,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 
 * [LUAMETER](https://luameter.com/) — A Lua module for Nginx that records and provides key status and performance metrics, right from within Nginx and in real-time (Proprietary)
 * [ngxtop](https://github.com/lebinh/ngxtop) — Real-Time metrics for nginx server
+* [lua-resty-moesif](https://github.com/Moesif/lua-resty-moesif) — Lua Client Library for Moesif, compatible with OpenResty
 
 #### Logging
 

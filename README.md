@@ -477,6 +477,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-unistring](https://github.com/bungle/lua-resty-unistring) — LuaJIT FFI bindings for GNU libunistring - A Unicode string manipulation lIbrary (https://www.gnu.org/software/libunistring/)
 * [lua-resty-htmlentities](https://github.com/detailyang/lua-resty-htmlentities) — Backport the entities to LuaJIT with the FFI binding as the entities to UTF-8 decoder
 * [lua-resty-jsdecode](https://github.com/detailyang/lua-resty-jsdecode) — Javascript Escape Notation decoding to UTF-8 bytes
+* [lua-resty-breeze](https://github.com/weibreeze/lua-resty-breeze) — Breeze serialize for Lua and OpenResty
 
 #### Binary Formats
 

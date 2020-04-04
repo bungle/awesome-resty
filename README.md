@@ -442,6 +442,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 * [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) — Lua / OpenResty implementation based on FFI for [rax](https://github.com/antirez/rax)
 * [lua-resty-counter](https://github.com/Kong/lua-resty-counter) — Lock-free counter for OpenResty
+* [NetStorageKit-Lua](https://github.com/rainingmaster/NetStorageKit-Lua) — Akamai Netstorage (File/Object Store) API for Openresty
 
 #### Date and Time
 

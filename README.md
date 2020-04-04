@@ -412,6 +412,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-kafka](https://github.com/doujiang24/lua-resty-kafka) — Lua kafka client driver for the ngx_lua based on the cosocket API
 * [lua-resty-beanstalkd](https://github.com/bakins/lua-resty-beanstalkd) — Lua beanstalkd client driver for the ngx_lua based on the cosocket API
 * [lua-resty-ironmq](https://github.com/bakins/lua-resty-ironmq) — Simple IronMQ client for OpenResty
+* [lua-resty-nsq](https://github.com/rainingmaster/lua-resty-nsq) — [NSQ](https://nsq.io/) client for for the ngx_lua based on the cosocket API
 
 #### Bar Codes and QR Codes
 

@@ -247,7 +247,8 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 #### Traffic Management
 
-* [lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) — Limit the request processing rate between multiple NGINX instances backed by Redis.
+* [lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) — Limit the request processing rate between multiple NGINX instances backed by Redis
+* [lua-resty-limit-rate](https://github.com/upyun/lua-resty-limit-rate) - Lua module for limiting request rate for OpenResty/ngx_lua, using the "token bucket" method
 
 #### Request Argments Parsers
 
@@ -266,6 +267,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [Monarch API Gateway](https://github.com/monarchapis/gateway-openresty)  — OpenResty-based API Gateway
 * [APISIX](https://github.com/iresty/apisix) — APISIX is a Cloud-Native Microservices API Gateway
 * [lua-resty-grpc-gateway](https://github.com/ysugimoto/lua-resty-grpc-gateway) — Provides request transformation between REST <-> gRPC with Openresty
+* [Slardar](https://github.com/upyun/slardar) - Updating your upstream list and run lua scripts without reloading Nginx
 
 #### Templating
 
@@ -442,6 +444,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-maxminddb](https://github.com/anjia0532/lua-resty-maxminddb) by [@anjia0532](https://github.com/anjia0532) — A Lua library for reading MaxMind's Geolocation database format (aka mmdb or geoip2)
 * [lua-resty-radixtree](https://github.com/api7/lua-resty-radixtree) — Lua / OpenResty implementation based on FFI for [rax](https://github.com/antirez/rax)
 * [lua-resty-counter](https://github.com/Kong/lua-resty-counter) — Lock-free counter for OpenResty
+* [lua-resty-sync](https://github.com/upyun/lua-resty-sync) - This lua-resty library help you to synchronize data(from redis, mysql, memcached and so on) based on the version changes
 
 #### Date and Time
 
@@ -551,7 +554,6 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-s3uploader](https://github.com/lilien1010/lua-resty-s3uploader) — An AWS S3 upload client，easy to use
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17mon](https://github.com/icowan/lua-resty-17mon) — ipip.net IP for OpenResty
-* [lua-resty-17monip](https://github.com/timebug/lua-resty-17monip) — 17MonIP parsing library for ngx_lua
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
 * [lua-mailgun](https://github.com/leafo/lua-mailgun) — A Lua library for sending emails and interacting with the Mailgun API. Compatible with OpenResty via Lapis HTTP API, or any other Lua script via LuaSocket.
 * [lua-payments](https://github.com/leafo/lua-payments) — Bindings to various payment provider APIs for use in Lua (with OpenResty or anything that supports LuaSocket)

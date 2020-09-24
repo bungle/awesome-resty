@@ -361,6 +361,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-postgres](https://github.com/azurewang/lua-resty-postgres) — Nonblocking Lua PostgreSQL driver library for ngx_lua
 * [pgmoon](https://github.com/leafo/pgmoon) — A pure Lua Postgres driver for use in OpenResy & more
 * [lua-resty-couchbase](https://github.com/ZigzagAK/lua-resty-couchbase) — OpenResty CouchBase module
+* [iqiyi/lua-resty-couchbase](https://github.com/iqiyi/lua-resty-couchbase) — Lua couchbase client driver for the ngx_lua based on the cosocket API
 * [lua-resty-couchdb](https://github.com/paragasu/lua-resty-couchdb) — Lua resty minimal couchdb client using nginx proxy ngx.location_capture
 * [lua-resty-orm](https://github.com/kran/lua-resty-orm) — Simple ORM for OpenResty
 * [lua-resty-mvc](https://github.com/pronan/lua-resty-mvc) — You don't need that complicated MVC framework! With just a plain folder with several simple files, you can enjoy basic but most frequently used MVC features.

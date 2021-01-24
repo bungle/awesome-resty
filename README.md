@@ -315,6 +315,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-argon2-ffi](https://github.com/thibaultCha/lua-argon2-ffi) — LuaJIT FFI binding for the Argon2 password hashing algorithm
 * [lua-resty-des](https://github.com/lilien1010/lua-resty-des) — Lua interface to make DES ECB encryption
 * [WXBizMsgCrypt](https://github.com/TheNorthMemory/WXBizMsgCrypt) — Lua version of the WeChat Message Cryptography
+* [luasodium](https://github.com/jprjr/luasodium) - Lua bindings to libsodium, compatible with both Lua C and LuaJIT FFI APIs.
 
 #### Networking
 

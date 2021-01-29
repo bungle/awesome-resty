@@ -449,6 +449,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-counter](https://github.com/Kong/lua-resty-counter) — Lock-free counter for OpenResty
 * [lua-resty-sync](https://github.com/upyun/lua-resty-sync) - This lua-resty library help you to synchronize data(from redis, mysql, memcached and so on) based on the version changes
 * [NetStorageKit-Lua](https://github.com/rainingmaster/NetStorageKit-Lua) — Akamai Netstorage (File/Object Store) API for Openresty
+* [lua-resty-wirefilter](https://github.com/satrobit/lua-resty-wirefilter) — LuaJIT FFI bindings to wirefilter - An execution engine for Wireshark-like filters
 
 #### Date and Time
 

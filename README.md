@@ -250,6 +250,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 
 * [lua-resty-redis-ratelimit](https://github.com/timebug/lua-resty-redis-ratelimit) — Limit the request processing rate between multiple NGINX instances backed by Redis
 * [lua-resty-limit-rate](https://github.com/upyun/lua-resty-limit-rate) - Lua module for limiting request rate for OpenResty/ngx_lua, using the "token bucket" method
+* [lua-resty-global-throttle](https://github.com/ElvinEfendi/lua-resty-global-throttle) — Distributed rate limiter / throttler based on [Cloudflare's blog post on approximate sliding window](https://blog.cloudflare.com/counting-things-a-lot-of-different-things/)
 
 #### Request Argments Parsers
 

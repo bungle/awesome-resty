@@ -354,6 +354,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-sniproxy](https://github.com/fffonion/lua-resty-sniproxy) — SNI Proxy based on stream-lua-nginx-module
 * [lua-resty-multiplexer](https://github.com/fffonion/lua-resty-multiplexer) — Transparent port service multiplexer for stream subsystem
 * [lua-resty-http2](https://github.com/tokers/lua-resty-http2) — The HTTP/2 Protocol (Client Side) Implementation for OpenResty
+* [lua-tus-server](https://github.com/mmatuska/lua-tus-server) - Server-side implementation of the tus protocol in Lua
 
 #### Databases and Storages
 

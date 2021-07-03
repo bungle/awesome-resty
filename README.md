@@ -292,6 +292,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-openidc](https://github.com/pingidentity/lua-resty-openidc) — lua-resty-openidc is a library for NGINX implementing the OpenID Connect Relying Party (RP) and the OAuth 2.0 Resource Server (RS) functionality
 * [lua-resty-duo-mobile](https://github.com/p0pr0ck5/lua-resty-duo-mobile) — OpenResty client for the Duo Mobile Auth API
 * [micro-auth](https://github.com/hypebeast/micro-auth) — A microservice that makes adding authentication with Google and Github to your application easy (Note: before using it in production, see: https://news.ycombinator.com/item?id=13682682 — hopefully we can remove this remark in a future)
+* [lua-resty-casbin](https://github.com/casbin-lua/lua-resty-casbin) — Casbin is an authorization library that supports access control models like ACL, RBAC, ABAC in Lua (OpenResty). This is a Casbin authorization plugin for OpenResty.
 
 #### Cryptography
 

@@ -564,6 +564,7 @@ These libraries are not build to using `lua-nginx-module`s date time functions (
 * [lua-resty-paypal](https://github.com/Chewbye/lua-resty-paypal) — Lua Paypal client using express checkout for OpenResty
 * [lua-resty-17mon](https://github.com/icowan/lua-resty-17mon) — ipip.net IP for OpenResty
 * [lua-resty-upyun](https://github.com/aCayF/lua-resty-upyun) — Upyun cloud-based platform
+* [lua-resty-tencent-cos-signature](https://github.com/mashirozx/lua-resty-tencent-cos-signature) Tencent QCloud COS Openresty request signature authorization headers generator
 * [lua-mailgun](https://github.com/leafo/lua-mailgun) — A Lua library for sending emails and interacting with the Mailgun API. Compatible with OpenResty via Lapis HTTP API, or any other Lua script via LuaSocket.
 * [lua-payments](https://github.com/leafo/lua-payments) — Bindings to various payment provider APIs for use in Lua (with OpenResty or anything that supports LuaSocket)
 

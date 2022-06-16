@@ -270,6 +270,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [APISIX](https://github.com/iresty/apisix) — APISIX is a Cloud-Native Microservices API Gateway
 * [lua-resty-grpc-gateway](https://github.com/ysugimoto/lua-resty-grpc-gateway) — Provides request transformation between REST <-> gRPC with Openresty
 * [Slardar](https://github.com/upyun/slardar) - Updating your upstream list and run lua scripts without reloading Nginx
+* [tl-ops-manage](https://github.com/iamtsm/tl-ops-manage) - Framework for service management based on openresty
 
 #### Templating
 

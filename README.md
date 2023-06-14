@@ -402,6 +402,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [lua-resty-mogilefs](https://github.com/sunkan/lua-resty-mogilefs) — A Lua mogilefs client driver for the ngx_lua based on the cosocket API
 * [lua-resty-etcd](https://github.com/api7/lua-resty-etcd) — Nonblocking Lua etcd driver library for OpenResty
 * [lua-shdict-nginx-module](https://github.com/rainingmaster/lua-shdict-nginx-module) — An upgraded version of [ngx.shared.DICT](https://github.com/openresty/lua-nginx-module#ngxshareddict), capable of sharing data between `stream` and `http` modules
+* [lua-resty-rocksdb](https://github.com/bsc-s2/lua-resty-rocksdb) — Lua library to build high performance but easy-to-use driver for RocksDB
 
 #### Testing and Profiling
 

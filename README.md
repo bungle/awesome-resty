@@ -245,6 +245,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [router.lua](https://github.com/APItools/router.lua) — A barebones router for Lua, it matches URLs and executes Lua functions
 * [lua-resty-r3](https://github.com/toritori0318/lua-resty-r3) — [libr3](https://github.com/c9s/r3) OpenResty implementation, libr3 is a high-performance path dispatching library. It compiles your route paths into a prefix tree (trie). By using the constructed prefix trie in the start-up time, you may dispatch your routes with efficiency
 * [lua-resty-libr3](https://github.com/iresty/lua-resty-libr3) — High-performance path dispatching library base on [libr3](https://github.com/c9s/r3) for OpenResty
+* [lua-radix-router](https://github.com/vm-001/lua-radix-router) - A lightweight, high-performance, radix tree based and OpenAPI friendly API Router for Lua / LuaJIT / OpenResty.
 
 #### Traffic Management
 
@@ -457,6 +458,7 @@ Connection utilities for lua-resty-mysql, support for read and write separation�
 * [NetStorageKit-Lua](https://github.com/rainingmaster/NetStorageKit-Lua) — Akamai Netstorage (File/Object Store) API for Openresty
 * [lua-resty-wirefilter](https://github.com/satrobit/lua-resty-wirefilter) — LuaJIT FFI bindings to wirefilter - An execution engine for Wireshark-like filters
 * [lua-resty-hyperloglog](https://github.com/vislee/lua-resty-hyperloglog) - hyperloglog for openresty.
+* [lua-jsonschema-mocker](https://github.com/vm-001/lua-jsonschema-mocker) - JSON Schema mocker.
 
 
 #### Date and Time

@@ -359,6 +359,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-http2](https://github.com/tokers/lua-resty-http2) — The HTTP/2 Protocol (Client Side) Implementation for OpenResty
 * [lua-tus-server](https://github.com/mmatuska/lua-tus-server) - Server-side implementation of the tus protocol in Lua
 * [lua-resty-wrr](https://github.com/vislee/lua-resty-wrr) - weight round robin for Openresty. Similar to ngx_http/stream_upstream_round_robin module.
+* [lua-resty-dycert](https://github.com/vislee/lua-resty-dycert) - Dynamically generate a certificate based on a CSR and sign it with a CA.
 
 #### Databases and Storages
 

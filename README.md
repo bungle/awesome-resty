@@ -235,6 +235,7 @@ Core Libraries are bundled in OpenResty package, and you don't need to separatel
 * [lua-resty-woothee](https://github.com/woothee/lua-resty-woothee) — The Lua-Openresty implementation of Project Woothee, which is a multi-language user-agent strings parsers
 * [lua-resty-mobile](https://github.com/isage/lua-resty-mobile) — This library parses HTTP headers and detects mobile device
 * [lua-resty-jwt](https://github.com/SkyLothar/lua-resty-jwt) — JWT (JSON Web Tokens) for The Great OpenResty
+* [lua-resty-jwt-verification](https://github.com/anvouk/lua-resty-jwt-verification) — JWT verification library for OpenResty with JWKS integration
 * [neturl](https://github.com/golgote/neturl) — URL and Query string parser, builder, normalizer for Lua
 * [Mio](https://github.com/iresty/Mio) — API statistics/summary and health datas in NGINX based on OpenResty, just like NGINX Plus
 * [lua-redis-admin](https://github.com/lifeblood/lua-redis-admin) — redis client tool,redis web client,redis web ui,openresty lor lua framework support
